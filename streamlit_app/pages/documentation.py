@@ -1,5 +1,6 @@
 """Documentation page: browse, search across, and download every written
 report from the project (data dictionary, glossary, EDA/stats/ML reports)."""
+from components.footer import render_footer
 import io
 import sys
 import zipfile
@@ -120,3 +121,4 @@ def render():
     render_doc_grid(docs)
     render_selected_doc(docs)
     render_download_all(docs)
+    render_footer()

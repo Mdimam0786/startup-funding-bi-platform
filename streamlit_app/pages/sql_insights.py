@@ -2,6 +2,7 @@
 live against PostgreSQL when available, falling back to an equivalent
 pandas computation (clearly labeled) when it isn't -- e.g. when this app
 is deployed somewhere without DB access."""
+from components.footer import render_footer
 import sys
 from pathlib import Path
 
@@ -178,3 +179,4 @@ def render():
         page works whether this app is running next to the project's database or deployed standalone.</p></div></div>""",
         unsafe_allow_html=True,
     )
+    render_footer()

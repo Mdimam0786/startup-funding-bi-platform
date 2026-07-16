@@ -1,6 +1,7 @@
 """Architecture page: the full data engineering -> BI pipeline, visualized
 as an interactive Sankey flow, plus a live self-diagnostic panel checking
 which parts of the stack are actually reachable right now."""
+from components.footer import render_footer
 import sys
 from pathlib import Path
 
@@ -198,3 +199,4 @@ def render():
     render_tech_stack()
     render_star_schema()
     render_folder_structure()
+    render_footer()

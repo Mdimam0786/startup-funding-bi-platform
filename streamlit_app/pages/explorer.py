@@ -1,6 +1,7 @@
 """Explorer page: search and browse startups, investors, countries, and
 industries directly -- AgGrid-powered tables with search, filtering,
 pagination, row selection, and CSV export in every tab."""
+from components.footer import render_footer
 import sys
 from pathlib import Path
 
@@ -255,3 +256,4 @@ def render():
         tab_countries(df)
     with tab4:
         tab_industries(df)
+    render_footer()

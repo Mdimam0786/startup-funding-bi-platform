@@ -1,6 +1,7 @@
 """Statistics page: confidence intervals, hypothesis tests, and regression
 diagnostics -- all computed live (cached), with interactive controls, not
 static screenshots of the written report."""
+from components.footer import render_footer
 import sys
 from pathlib import Path
 
@@ -268,3 +269,5 @@ def render():
     section_hypothesis_tests(df)
     st.markdown("<div style='height:1.2rem'></div>", unsafe_allow_html=True)
     section_regression(df)
+    
+    render_footer()

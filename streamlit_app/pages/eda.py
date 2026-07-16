@@ -1,6 +1,7 @@
 """EDA page: interactive filtered charts across funding, industry, geography,
 and stage/outcome dimensions, plus a searchable/paginated table of all 101
 written insights from the EDA report."""
+from components.footer import render_footer
 import sys
 from pathlib import Path
 
@@ -327,3 +328,4 @@ def render():
         <p class="subtle" style="margin:0.2rem 0 0 0; font-size:0.85rem;">{DATA_SCOPE_NOTE}</p></div></div>""",
         unsafe_allow_html=True,
     )
+    render_footer()

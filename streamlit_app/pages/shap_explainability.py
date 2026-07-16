@@ -1,5 +1,6 @@
 """SHAP Explainability page: global feature importance for the regression
 and classification models, computed from the full training set."""
+from components.footer import render_footer
 import sys
 from pathlib import Path
 
@@ -54,3 +55,4 @@ def section_global_importance():
 def render():
     render_header()
     section_global_importance()
+    render_footer()

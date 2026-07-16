@@ -1,4 +1,5 @@
 """Home / Landing page."""
+from components.footer import render_footer
 import sys
 from pathlib import Path
 
@@ -212,3 +213,4 @@ def render():
 
     st.markdown("<div style='height:0.8rem'></div>", unsafe_allow_html=True)
     render_scope_footer()
+    render_footer()

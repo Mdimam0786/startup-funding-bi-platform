@@ -1,4 +1,5 @@
 """About page: project credits, tech highlights, and contact links."""
+from components.footer import render_footer
 import sys
 from pathlib import Path
 
@@ -113,3 +114,4 @@ def render():
     render_summary_cards()
     render_build_notes()
     render_contact()
+    render_footer()

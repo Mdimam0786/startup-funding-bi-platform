@@ -1,5 +1,6 @@
 """ML Predictions page: live inference against the trained regression and
 classification pipelines, driven by an interactive company-profile form."""
+from components.footer import render_footer
 import sys
 from pathlib import Path
 
@@ -187,3 +188,5 @@ def render():
         render_success_prediction(row)
 
     render_caveat()
+    render_footer()
+
