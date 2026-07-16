@@ -16,7 +16,6 @@ def render_header():
         <div class="hero-title" style="font-size:2.1rem;">About This Project</div>
         <p class="hero-sub">{APP_NAME} · v{APP_VERSION} — a full-stack analytics platform I built to
         cover the complete data-to-decision lifecycle on real, sourced startup funding data.</p>
-        <p class="subtle" style="font-size:0.85rem; margin-top:-0.4rem;">Made by Md Imamuddin</p>
         """,
         unsafe_allow_html=True,
     )

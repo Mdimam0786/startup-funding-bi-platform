@@ -56,7 +56,7 @@ def render_header():
         """,
         unsafe_allow_html=True,
     )
-    st.caption("Developed by Md Imamuddin")
+    
 
 
 @safe_run("Couldn't render the prediction form.")

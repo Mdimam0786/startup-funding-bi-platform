@@ -41,7 +41,7 @@ def render_hero_and_kpis():
         unsafe_allow_html=True,
         
     )
-    st.caption("Developed by Md Imamuddin")
+   
 
     st.markdown("<div style='height:1.3rem'></div>", unsafe_allow_html=True)
 

@@ -23,8 +23,6 @@ def render_header():
     unsafe_allow_html=True,
 )
 
-st.caption("Project documentation by Md Imamuddin")
-
 st.markdown(
     """
     <p class="subtle" style="margin-top:0;">
