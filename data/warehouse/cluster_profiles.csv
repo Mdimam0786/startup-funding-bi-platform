@@ -1,0 +1,3 @@
+cluster,count,median_funding,avg_funding_rounds,avg_years_since_founded,avg_round_types_used,exit_rate,unicorn_rate,top_industry,pct_of_dataset
+0,29945,925000.0,1.3,6.17,0.9,0.08,0.0,Software,76.5
+1,9193,16500000.0,3.56,10.84,3.06,0.24,0.01,Biotechnology,23.5
