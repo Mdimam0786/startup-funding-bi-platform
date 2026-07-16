@@ -1,0 +1,22 @@
+round_type_id,round_type_name,stage_category
+1,seed,Early Stage
+2,venture,Venture
+3,equity_crowdfunding,Alternative
+4,undisclosed,Undisclosed
+5,convertible_note,Early Stage
+6,debt_financing,Debt
+7,angel,Early Stage
+8,grant,Alternative
+9,private_equity,Growth
+10,post_ipo_equity,Late Stage / Public
+11,post_ipo_debt,Late Stage / Public
+12,secondary_market,Late Stage / Public
+13,product_crowdfunding,Alternative
+14,round_A,Venture
+15,round_B,Venture
+16,round_C,Venture
+17,round_D,Growth
+18,round_E,Growth
+19,round_F,Growth
+20,round_G,Growth
+21,round_H,Growth

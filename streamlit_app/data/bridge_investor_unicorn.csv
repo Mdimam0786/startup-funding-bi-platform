@@ -1,0 +1,3638 @@
+investor_id,company
+1,OpenAI
+2,OpenAI
+3,OpenAI
+4,ByteDance
+5,ByteDance
+6,ByteDance
+7,ByteDance
+8,SpaceX
+9,SpaceX
+10,SpaceX
+11,Anthropic
+1,Stripe
+12,Stripe
+13,Stripe
+14,Databricks
+15,Databricks
+16,Databricks
+17,VAST Data
+18,VAST Data
+19,VAST Data
+20,Revolut
+21,Revolut
+22,Revolut
+23,SHEIN
+4,SHEIN
+24,SHEIN
+25,Ripple
+26,Ripple
+27,Ripple
+28,Figure
+29,Figure
+30,Figure
+31,Ramp
+32,Ramp
+33,Ramp
+4,Canva
+34,Canva
+35,Canva
+7,Fanatics
+14,Fanatics
+36,Fanatics
+3,Safe Superintelligence
+21,Safe Superintelligence
+14,Safe Superintelligence
+14,Anysphere
+2,Anysphere
+37,Anysphere
+38,OKX
+39,Epic Games
+40,Epic Games
+41,Epic Games
+42,Chime
+43,Chime
+44,Chime
+15,Perplexity
+45,Perplexity
+46,Perplexity
+14,Deel
+47,Deel
+48,Deel
+49,Miro
+50,Miro
+51,Miro
+52,Xiaohongshu
+53,Xiaohongshu
+54,Xiaohongshu
+55,Rippling
+48,Rippling
+56,Rippling
+39,Yuanfudao
+57,Yuanfudao
+25,Yuanfudao
+58,DJI Innovations
+3,DJI Innovations
+27,ClickHouse
+59,ClickHouse
+60,ClickHouse
+61,Discord
+62,Discord
+39,Discord
+4,Yuanqi Senlin
+63,Yuanqi Senlin
+64,Yuanqi Senlin
+65,Trade Republic
+66,Trade Republic
+67,Skild AI
+68,Skild AI
+69,Skild AI
+14,Anduril
+8,Anduril
+70,Anduril
+49,Scale
+48,Scale
+20,Scale
+14,OpenSea
+71,OpenSea
+72,OpenSea
+27,Mistral AI
+68,Mistral AI
+14,Mistral AI
+49,Celonis
+73,Celonis
+68,Grammarly
+45,Grammarly
+74,Grammarly
+14,Devoted Health
+75,Devoted Health
+76,Devoted Health
+1,Faire
+42,Faire
+3,Faire
+77,Labs
+78,Labs
+21,Brex
+22,Brex
+79,Brex
+23,JUUL Labs
+33,Bitmain Technologies
+4,Bitmain Technologies
+25,Bitmain Technologies
+15,GoodLeap
+80,GoodLeap
+81,GoodLeap
+40,Xingsheng Selected
+39,Xingsheng Selected
+4,Xingsheng Selected
+82,Airtable
+67,Airtable
+83,Airtable
+48,Whatnot
+14,Whatnot
+84,Whatnot
+14,ElevenLabs
+85,ElevenLabs
+3,ElevenLabs
+86,ZongMu Technology
+87,ZongMu Technology
+88,ZongMu Technology
+42,Oura
+89,Oura
+90,Oura
+20,Notion
+91,Notion
+92,Notion
+93,Bending Spoons
+94,Bending Spoons
+95,Bending Spoons
+96,Global Switch
+97,Global Switch
+98,Global Switch
+23,Checkout.com
+99,Checkout.com
+21,Checkout.com
+100,Bolt
+100,Bolt
+101,Bolt
+101,Bolt
+102,Bolt
+102,Bolt
+61,Sierra
+3,Sierra
+103,Sierra
+104,Alchemy
+33,Alchemy
+105,Alchemy
+106,Quince
+107,Quince
+108,Bilt Rewards
+109,Bilt Rewards
+110,Bilt Rewards
+111,Colossal
+74,Colossal
+112,Colossal
+113,Huolala
+24,Huolala
+114,Huolala
+14,Thinking Machines Lab
+49,Thinking Machines Lab
+115,Crusoe
+8,Crusoe
+116,Crusoe
+117,Gusto
+118,Gusto
+56,Gusto
+4,Chehaoduo
+119,Chehaoduo
+120,Talkdesk
+121,Talkdesk
+122,Talkdesk
+123,Mercor
+61,Mercor
+22,Digital Currency Group
+13,Digital Currency Group
+124,Digital Currency Group
+25,KuCoin
+125,KuCoin
+126,KuCoin
+8,Cognition AI
+1,Cognition AI
+127,Neuralink
+8,Neuralink
+128,Neuralink
+4,HEYTEA
+129,HEYTEA
+130,HEYTEA
+131,N26
+132,N26
+133,N26
+14,Navan
+27,Navan
+134,Navan
+135,Polymarket
+8,Polymarket
+14,Tanium
+136,Tanium
+137,Tanium
+138,Niantic
+11,Niantic
+139,Niantic
+47,Niantic
+7,OYO Rooms
+140,OYO Rooms
+141,OYO Rooms
+142,Rapyd
+68,Rapyd
+93,Rapyd
+105,Chainalysis
+143,Chainalysis
+49,Chainalysis
+49,Gopuff
+7,Gopuff
+144,Gopuff
+145,Personio
+146,Personio
+147,Personio
+148,SumUp
+18,SumUp
+149,SumUp
+150,Bolt
+150,Bolt
+151,Bolt
+151,Bolt
+152,Bolt
+152,Bolt
+153,Tipalti
+134,Tipalti
+154,Tipalti
+155,Odoo
+156,Odoo
+157,Odoo
+158,Dream11
+39,Dream11
+159,Dream11
+15,Plaid
+160,Plaid
+20,Plaid
+135,Reflection AI
+161,Reflection AI
+3,Reflection AI
+21,Airwallex
+4,Airwallex
+39,Airwallex
+162,Fireblocks
+33,Fireblocks
+163,Fireblocks
+164,Flexport
+8,Flexport
+165,Flexport
+23,FalconX
+148,FalconX
+166,FalconX
+167,Caris
+168,Caris
+169,Caris
+170,Dapper Labs
+76,Dapper Labs
+14,Dapper Labs
+27,Netskope
+171,Netskope
+49,Netskope
+3,Zipline
+172,Zipline
+118,Zipline
+35,Flock Safety
+55,Flock Safety
+23,Flock Safety
+140,Razorpay
+23,Razorpay
+173,Razorpay
+174,Automattic
+175,Automattic
+176,Automattic
+69,Carta
+47,Carta
+170,Carta
+177,Snyk
+118,Snyk
+49,Snyk
+17,Gong
+178,Gong
+179,Gong
+170,Upgrade
+22,Upgrade
+128,Upgrade
+180,Zepto
+181,Zepto
+145,Zepto
+27,Blockchain.com
+118,Blockchain.com
+182,Blockchain.com
+183,Toss
+88,Toss
+56,Toss
+49,Wonder
+42,Wonder
+54,We Doctor
+184,We Doctor
+47,MatX
+55,Ro
+68,Ro
+185,Ro
+186,ConsenSys
+187,ConsenSys
+188,ConsenSys
+189,Groq
+171,Groq
+31,Groq
+102,Automation Anywhere
+18,Automation Anywhere
+15,Automation Anywhere
+190,1Password
+49,1Password
+191,1Password
+192,PsiQuantum
+193,PsiQuantum
+194,PsiQuantum
+49,Lovable
+195,Lovable
+4,Ziroom
+196,Ziroom
+68,Ziroom
+25,SVOLT
+197,SVOLT
+198,SVOLT
+199,National Stock Exchange of India
+7,National Stock Exchange of India
+200,National Stock Exchange of India
+51,Mollie
+201,Doctolib
+202,Doctolib
+49,Doctolib
+23,CRED
+21,CRED
+140,CRED
+62,Snorkel AI
+118,Snorkel AI
+194,Snorkel AI
+15,DataRobot
+203,DataRobot
+204,DataRobot
+205,Black Unicorn Factory
+2,Benchling
+61,Benchling
+206,Benchling
+207,Redwood Materials
+208,Redwood Materials
+209,Redwood Materials
+3,OpenEvidence
+27,Grafana Labs
+210,Grafana Labs
+33,Grafana Labs
+49,Cyera
+211,Cyera
+3,Cyera
+14,Applied Intuition
+212,Applied Intuition
+68,Applied Intuition
+68,Commure
+213,Commure
+7,Nuro
+62,Nuro
+64,Nuro
+194,iCapital
+214,iCapital
+215,iCapital
+216,Legora
+183,Legora
+212,Runway
+217,Runway
+218,Runway
+76,6Sense
+16,6Sense
+99,6Sense
+219,Attentive
+220,Attentive
+3,Attentive
+221,Easyhome
+222,Easyhome
+223,Easyhome
+54,Lianjia
+224,Lianjia
+225,Lianjia
+16,Workato
+122,Workato
+216,Workato
+20,Alan
+226,Alan
+227,Alan
+1,Physical Intelligence
+3,Physical Intelligence
+212,Physical Intelligence
+7,Vuori
+17,Vuori
+228,Back Market
+229,Back Market
+230,Back Market
+214,RELEX
+51,RELEX
+155,RELEX
+231,Verkada
+165,Verkada
+3,Verkada
+128,The Boring Company
+106,The Boring Company
+127,The Boring Company
+180,Postman
+67,Postman
+99,Postman
+35,FiveTran
+14,FiveTran
+68,FiveTran
+232,ContentSquare
+229,ContentSquare
+233,ContentSquare
+14,Shield AI
+44,Shield AI
+234,Shield AI
+21,Rappi
+14,Rappi
+3,Rappi
+235,Rappi
+20,Collibra
+16,Collibra
+236,Collibra
+237,AMI Labs
+238,AMI Labs
+239,AMI Labs
+14,Unconventional AI
+27,Unconventional AI
+99,OneTrust
+240,QuintoAndar
+102,QuintoAndar
+7,QuintoAndar
+3,Clay
+165,Clay
+241,Baseten
+62,Baseten
+45,Baseten
+242,Monzo
+2,Monzo
+243,Monzo
+244,C6 Bank
+49,Supabase
+245,Supabase
+127,Supabase
+62,Abnormal Security
+99,Abnormal Security
+69,Abnormal Security
+246,Mambu
+247,Mambu
+248,Mambu
+102,Howden Group Holdings
+249,Howden Group Holdings
+250,Howden Group Holdings
+251,SambaNova Systems
+118,SambaNova Systems
+28,SambaNova Systems
+49,ZEPZ
+51,ZEPZ
+252,ZEPZ
+253,OakNorth Bank
+254,OakNorth Bank
+255,OakNorth Bank
+99,Moon Active
+256,Moon Active
+173,OfBusiness
+257,OfBusiness
+7,OfBusiness
+118,Cockroach Labs
+61,Cockroach Labs
+258,Cockroach Labs
+140,Pine Labs
+226,Pine Labs
+259,Pine Labs
+260,Qonto
+133,Qonto
+39,Qonto
+261,Etched
+262,Etched
+263,Icertis
+264,Icertis
+265,Icertis
+266,Hopper
+267,Hopper
+268,Hopper
+257,VerSe Innovation
+269,VerSe Innovation
+140,VerSe Innovation
+270,Lenskart
+271,Lenskart
+272,Lenskart
+273,ShareChat
+274,ShareChat
+27,ShareChat
+275,Coalition
+276,Coalition
+277,Coalition
+278,Cerebral
+279,Cerebral
+280,Cerebral
+281,Reify Health
+16,Reify Health
+282,Reify Health
+283,Chipone
+284,Chipone
+285,Chipone
+286,BetterUp
+27,BetterUp
+43,BetterUp
+66,Pleo
+287,Pleo
+288,Pleo
+289,SonarSource
+68,SonarSource
+99,SonarSource
+62,Lyra Health
+76,Lyra Health
+290,Lyra Health
+74,SandboxAQ
+29,SandboxAQ
+291,SandboxAQ
+48,Checkr
+49,Checkr
+292,Checkr
+68,Glean
+56,Glean
+27,Glean
+2,Skims
+293,Skims
+294,Skims
+68,Color
+295,Color
+292,Color
+296,Lendable
+18,Lendable
+49,Vinted
+99,Vinted
+297,Vinted
+298,Helion Energy
+48,Helion Energy
+208,Helion Energy
+4,VIPKid
+39,VIPKid
+299,VIPKid
+275,Socure
+276,Socure
+277,Socure
+121,wefox
+300,wefox
+268,wefox
+301,Hugging Face
+105,Hugging Face
+212,Hugging Face
+302,Outreach
+193,Outreach
+303,Outreach
+118,Lightmatter
+47,Lightmatter
+35,Lightmatter
+102,Guild Education
+214,Guild Education
+304,Guild Education
+27,Arctic Wolf Networks
+216,Arctic Wolf Networks
+295,Arctic Wolf Networks
+305,Moonshot AI
+306,Moonshot AI
+53,Moonshot AI
+99,Island
+3,Island
+163,Island
+40,OutSystems
+307,OutSystems
+308,OutSystems
+212,Erebor
+106,Erebor
+61,Sorare
+49,Sorare
+7,Sorare
+192,Relativity Space
+241,Relativity Space
+101,Relativity Space
+14,Nexthop
+27,Nexthop
+16,Nexthop
+4,Miaoshou Doctor
+309,Miaoshou Doctor
+39,Miaoshou Doctor
+27,ThoughtSpot
+1,ThoughtSpot
+310,ThoughtSpot
+311,Globalization Partners
+312,Globalization Partners
+313,Globalization Partners
+3,SSENSE
+127,Vanta
+3,Vanta
+314,Vanta
+76,Dataminr
+45,Dataminr
+18,Dataminr
+3,Pennylane
+315,BitPanda
+133,BitPanda
+316,BitPanda
+317,Weee!
+318,Weee!
+319,Weee!
+105,Base Power
+320,Base Power
+321,Fireworks
+20,Fireworks
+3,Fireworks
+27,Ricursive Intelligence
+322,Ricursive Intelligence
+3,Ricursive Intelligence
+295,AlphaSense
+200,AlphaSense
+194,AlphaSense
+106,Saronic Technologies
+82,Saronic Technologies
+14,Saronic Technologies
+323,The Brandtech Group
+27,EON
+3,EON
+241,EON
+15,Houzz
+3,Houzz
+324,Houzz
+325,Luma AI
+326,Luma AI
+327,Yello Mobile
+328,Inflection AI
+62,Inflection AI
+329,Inflection AI
+14,Fal
+107,Fal
+330,Fal
+331,MEGVII
+332,MEGVII
+333,MEGVII
+118,Synthesia
+56,Synthesia
+258,Synthesia
+7,Greensill
+102,Greensill
+1,Impossible Foods
+329,Impossible Foods
+36,Impossible Foods
+15,Radiology Partners
+334,Radiology Partners
+134,Next Insurance
+22,Next Insurance
+335,Next Insurance
+336,PointClickCare
+337,PointClickCare
+338,PointClickCare
+3,Zapier
+183,Zapier
+286,Zapier
+14,Clubhouse
+339,Clubhouse
+49,BrowserStack
+99,BrowserStack
+340,BrowserStack
+341,ClickUp
+127,ClickUp
+61,Cerebras Systems
+342,Cerebras Systems
+3,Cerebras Systems
+343,Farmers Business Network
+344,Farmers Business Network
+118,Farmers Business Network
+15,Branch
+15,Branch
+345,Branch
+345,Branch
+346,Branch
+346,Branch
+110,Aurora Solar
+347,Aurora Solar
+236,Aurora Solar
+49,Webflow
+348,Webflow
+13,Webflow
+14,Yuga Labs
+2,Yuga Labs
+72,Yuga Labs
+349,Medlinker
+350,Medlinker
+351,Medlinker
+118,StockX
+16,StockX
+21,StockX
+48,MessageBird
+352,MessageBird
+49,MessageBird
+214,Articulate
+304,Articulate
+102,Articulate
+28,Ayar Labs
+8,Ayar Labs
+192,Ayar Labs
+353,Dutchie
+354,Dutchie
+355,Dutchie
+7,Cohesity
+3,Cohesity
+179,Cohesity
+356,Abba Platforms
+260,Dataiku
+258,Dataiku
+13,Dataiku
+357,GOAT
+358,GOAT
+31,GOAT
+88,Noom
+359,Noom
+360,Noom
+183,Papaya Global
+99,Papaya Global
+361,Papaya Global
+362,Abogen
+7,Abogen
+309,Abogen
+69,Harness
+363,Harness
+267,Harness
+40,o9 Solutions
+360,Relativity
+236,Relativity
+219,Whoop
+364,Whoop
+275,Whoop
+365,Course Hero
+366,Course Hero
+367,Course Hero
+336,SpotOn
+21,SpotOn
+368,SpotOn
+369,Otto Bock HealthCare
+218,Chainguard
+370,Chainguard
+3,Chainguard
+45,Cribl
+67,Cribl
+3,Cribl
+14,Hippocratic AI
+68,Hippocratic AI
+46,Hippocratic AI
+326,Vultr
+371,Indigo Ag
+372,Indigo Ag
+172,Indigo Ag
+373,HyalRoute
+165,Rec Room
+3,Rec Room
+20,Rec Room
+374,Mirakl
+73,Mirakl
+375,Mirakl
+376,Tekion
+20,Tekion
+289,Tekion
+377,GoStudent
+378,GoStudent
+33,GoStudent
+56,Handshake
+27,Handshake
+379,Handshake
+99,ChargeBee Technologies
+23,ChargeBee Technologies
+49,ChargeBee Technologies
+380,Unacademy
+180,Unacademy
+140,Unacademy
+15,MoonPay
+33,MoonPay
+23,MoonPay
+23,Upstox
+381,Upstox
+14,Improbable
+7,Improbable
+36,Improbable
+382,Youxia Motors
+383,Youxia Motors
+20,Starburst
+33,Starburst
+14,Starburst
+384,Together AI
+385,Together AI
+212,Together AI
+183,Sila
+386,Sila
+35,Sila
+387,Tabby
+388,Tabby
+145,Tabby
+14,Komodo Health
+204,Komodo Health
+92,Komodo Health
+4,Kurly
+21,Kurly
+21,Kurly
+389,Cars24
+21,Cars24
+140,Cars24
+390,Spring Health
+391,Spring Health
+392,Spring Health
+68,Judi Health
+393,Judi Health
+121,Black Forest Labs
+14,Black Forest Labs
+394,Black Forest Labs
+67,Vercel
+49,Vercel
+118,Vercel
+395,Dadi Cinema
+45,Aiven
+352,Aiven
+132,Aiven
+396,Thumbtack
+3,Thumbtack
+397,Thumbtack
+2,Cedar
+8,Cedar
+398,Cedar
+31,Uala
+31,Uala
+140,Eruditus Executive Education
+272,Eruditus Executive Education
+399,Eruditus Executive Education
+216,K2 Space
+400,K2 Space
+60,Parloa
+14,Replit
+164,Replit
+401,Replit
+402,Blockstream
+403,Blockstream
+404,Blockstream
+3,Decart
+134,Decart
+106,Addepar
+31,Addepar
+405,Addepar
+193,Innovaccer
+406,Innovaccer
+27,Innovaccer
+49,Ironclad
+3,Ironclad
+48,Ironclad
+1,Distyl AI
+3,Retool
+407,Pomelo Care
+14,Pomelo Care
+408,Pomelo Care
+409,HighRadius
+267,HighRadius
+236,HighRadius
+240,Nuvemshop
+88,Nuvemshop
+49,Nuvemshop
+410,Grow Therapy
+3,Grow Therapy
+411,Phantom
+14,Phantom
+412,Phantom
+14,LayerZero Labs
+413,LayerZero Labs
+23,LayerZero Labs
+37,Harvey
+414,Harvey
+3,Harvey
+49,Filevine
+415,Filevine
+416,Filevine
+123,Poolside
+216,Poolside
+417,Poolside
+418,Clio
+292,Clio
+51,Clio
+309,Zhipu AI
+87,Zhipu AI
+419,Zhipu AI
+68,Nord Security
+420,Nord Security
+421,Nord Security
+4,Yixia
+6,Yixia
+56,Yixia
+216,Yixia
+145,Traveloka
+422,Traveloka
+423,Traveloka
+424,Monad Labs
+187,Monad Labs
+188,Monad Labs
+425,SouChe Holdings
+196,SouChe Holdings
+426,SouChe Holdings
+427,BGL Group
+68,Circle
+428,Circle
+49,Circle
+4,Zuoyebang
+114,Zuoyebang
+52,Zuoyebang
+40,Saviynt
+429,FlixMobility
+430,FlixMobility
+102,FlixMobility
+61,Wildlife Studios
+183,Wildlife Studios
+431,ApplyBoard
+432,ApplyBoard
+144,ApplyBoard
+433,Forter
+434,Forter
+277,Forter
+236,Calendly
+435,Calendly
+436,BlockFi
+133,BlockFi
+437,BlockFi
+348,ActiveCampaign
+409,ActiveCampaign
+23,ActiveCampaign
+438,CMR Surgical
+439,CMR Surgical
+440,CMR Surgical
+441,Lucid Software
+236,Lucid Software
+442,Lucid Software
+443,Age of Learning
+444,Zetwerk
+103,Zetwerk
+445,Zetwerk
+446,Carbon Health
+214,Carbon Health
+447,Carbon Health
+448,Contentful
+68,Contentful
+23,Contentful
+449,LaunchDarkly
+286,LaunchDarkly
+164,LaunchDarkly
+450,Seismic
+102,Seismic
+27,Seismic
+451,Sky Mavis
+452,Sky Mavis
+453,Sky Mavis
+454,Outschool
+23,Outschool
+455,Outschool
+23,TradingView
+99,TradingView
+412,TradingView
+49,Podium
+155,Podium
+118,Podium
+456,Rokt
+457,Rokt
+23,Rokt
+73,Via
+458,Via
+459,Via
+14,Anchorage Digital
+404,Anchorage Digital
+212,Anchorage Digital
+33,Inxeption
+460,Inxeption
+461,Inxeption
+1,Lattice
+2,Lattice
+48,Lattice
+462,Flutterwave
+463,Flutterwave
+264,Flutterwave
+16,Cross River Bank
+14,Cross River Bank
+22,Cross River Bank
+20,Remote
+3,Remote
+68,Remote
+15,Sentry
+49,Sentry
+241,Sentry
+464,TERMINUS Technology
+25,TERMINUS Technology
+465,TERMINUS Technology
+466,Kraken
+467,Kraken
+468,Kraken
+8,Workrise
+469,Workrise
+470,Workrise
+99,BharatPe
+140,BharatPe
+471,BharatPe
+25,Gokin Solar
+472,Gokin Solar
+473,Gokin Solar
+234,DriveWealth
+474,DriveWealth
+49,DriveWealth
+23,Meicai
+475,Meicai
+53,Meicai
+476,Nutrabolt
+477,Baichuan AI
+478,Baichuan AI
+45,Abridge
+47,Abridge
+27,Abridge
+447,Illumio
+327,Illumio
+117,Illumio
+45,MasterClass
+15,MasterClass
+479,MasterClass
+102,Transmit Security
+99,Transmit Security
+480,Transmit Security
+481,Hozon Auto
+482,Hozon Auto
+483,Hozon Auto
+484,Tradeshift
+485,Tradeshift
+486,Tradeshift
+487,TravelPerk
+288,TravelPerk
+375,TravelPerk
+488,Nextiva
+489,Tridge
+490,Tridge
+491,Thought Machine
+492,Thought Machine
+493,Thought Machine
+494,Starling Bank
+495,Starling Bank
+496,Starling Bank
+497,BackBase
+102,ManoMano
+498,ManoMano
+499,ManoMano
+216,Sourcegraph
+500,Sourcegraph
+99,Sourcegraph
+501,Pendo
+16,Pendo
+502,Pendo
+99,Plume
+450,Plume
+503,Plume
+504,Moglix
+49,Moglix
+505,Moglix
+506,Axonius
+183,Axonius
+507,Axonius
+508,JumpCloud
+102,JumpCloud
+194,JumpCloud
+509,Unico
+102,Unico
+510,Unico
+1,JUST Egg
+329,JUST Egg
+8,JUST Egg
+3,Peregrine
+511,Peregrine
+49,n8n
+321,n8n
+512,n8n
+513,Lambda Labs
+514,Lambda Labs
+164,Lambda Labs
+515,Jetti Resources
+516,Jetti Resources
+183,Claroty
+517,Claroty
+518,Claroty
+519,Vista Global
+520,BYTON
+39,BYTON
+521,BYTON
+522,Side
+303,Side
+35,Side
+49,Infra.Market
+23,Infra.Market
+180,Infra.Market
+196,Varo Bank
+523,Varo Bank
+524,Varo Bank
+525,Cato Networks
+526,Cato Networks
+62,Cato Networks
+1,Sword Health
+527,Sword Health
+8,Sword Health
+218,Temporal
+105,Temporal
+528,Temporal
+196,Aura
+68,Aura
+529,TensTorrent
+530,TensTorrent
+531,TensTorrent
+49,Sysdig
+115,Sysdig
+99,Sysdig
+270,Uniphore
+532,Uniphore
+533,Uniphore
+534,Somatus
+535,Somatus
+536,Somatus
+451,Immutable
+537,Immutable
+226,Immutable
+386,SiFive
+538,SiFive
+47,SiFive
+23,Games24x7
+539,Games24x7
+540,Games24x7
+264,Fetch
+541,Fetch
+21,Fetch
+183,DriveNets
+459,DriveNets
+31,DriveNets
+212,Sakana AI
+1,Sakana AI
+15,Sakana AI
+69,Suno
+27,Suno
+183,Suno
+183,Hibob
+263,Hibob
+16,Hibob
+140,Mobile Premier League
+542,Mobile Premier League
+543,Mobile Premier League
+544,insitro
+545,insitro
+546,insitro
+24,Cgtz
+547,Cgtz
+548,Cgtz
+24,Star Charge
+547,Star Charge
+548,Star Charge
+118,Carbon
+3,Carbon
+549,Carbon
+550,Paxos
+392,Paxos
+298,Paxos
+69,BitSight Technologies
+52,BitSight Technologies
+551,BitSight Technologies
+292,Trumid
+336,Trumid
+194,Trumid
+292,ABL Space Systems
+552,ABL Space Systems
+496,ABL Space Systems
+17,HoneyBook
+553,HoneyBook
+554,HoneyBook
+555,Project44
+106,Project44
+556,Project44
+14,Freenome
+447,Freenome
+557,Freenome
+558,ManyPets
+559,ManyPets
+560,ManyPets
+561,Job&Talent
+7,Job&Talent
+352,Job&Talent
+562,WEMAKEPRICE
+563,WEMAKEPRICE
+564,Danggeun Market
+68,Danggeun Market
+565,Danggeun Market
+1,Aven
+68,Aven
+8,Aven
+39,Voodoo
+18,Voodoo
+21,Kavak
+7,Kavak
+566,Kavak
+567,Uptake
+15,Uptake
+568,Uptake
+118,Motive
+20,Motive
+434,Motive
+569,Greenlight
+570,Greenlight
+571,Greenlight
+317,MoMo
+196,MoMo
+200,MoMo
+572,Story Protocol
+14,Story Protocol
+573,Story Protocol
+49,Algolia
+260,Algolia
+122,Algolia
+574,EliseAI
+234,EliseAI
+575,EliseAI
+102,NuCom Group
+14,Skydio
+14,Skydio
+45,Skydio
+49,Skydio
+576,Uala
+576,Uala
+22,Uala
+22,Uala
+577,Uala
+577,Uala
+578,Current
+579,Current
+342,Current
+580,Bitso
+579,Bitso
+188,Bitso
+102,Gympass
+7,Gympass
+352,Gympass
+14,Dialpad
+118,Dialpad
+581,Dialpad
+582,G7 Networks
+198,G7 Networks
+583,G7 Networks
+115,BloomReach
+584,BloomReach
+27,BloomReach
+585,Accelerant
+586,Accelerant
+587,Accelerant
+4,YITU Technology
+588,YITU Technology
+589,Inari
+590,Inari
+591,Inari
+106,Qualia
+69,Qualia
+23,Qualia
+49,CHAOS Industries
+49,CHAOS Industries
+106,CHAOS Industries
+106,CHAOS Industries
+592,Zeta
+7,Zeta
+263,Neo4j
+593,Neo4j
+66,Neo4j
+594,eMed
+595,eMed
+596,eMed
+484,Mews
+597,Mews
+16,Mews
+432,CloudWalk
+598,CloudWalk
+21,CloudWalk
+545,Xaira Therapeutics
+544,Xaira Therapeutics
+275,Xaira Therapeutics
+599,CoinDCX
+188,CoinDCX
+412,CoinDCX
+342,Eightfold
+45,Eightfold
+68,Eightfold
+600,ABLY
+601,ABLY
+602,ABLY
+16,Onebrief
+68,Onebrief
+603,Onebrief
+604,Medable
+605,Medable
+606,Medable
+76,Aledade
+607,Aledade
+545,Aledade
+163,A24 Films
+608,A24 Films
+14,Gamma
+49,Gamma
+609,Gamma
+610,Forto
+611,Forto
+145,Forto
+612,bolttech
+613,bolttech
+100,bolttech
+39,Jeeves
+67,Jeeves
+614,Jeeves
+74,Viva Wallet
+615,Viva Wallet
+352,Framer
+49,Framer
+342,Framer
+616,d-Matrix
+226,d-Matrix
+617,EvenUp
+27,EvenUp
+183,EvenUp
+579,Kin
+277,Kin
+618,Kin
+238,FieldAI
+619,FieldAI
+1,FieldAI
+330,WorkOS
+605,WorkOS
+165,WorkOS
+145,Feedzai
+620,Feedzai
+264,Feedzai
+3,Kalshi
+3,MUSINSA
+61,DeepL
+621,DeepL
+183,DeepL
+622,CHAOS Industries
+622,CHAOS Industries
+623,CHAOS Industries
+623,CHAOS Industries
+624,CHAOS Industries
+624,CHAOS Industries
+622,Firefly Aerospace
+623,Firefly Aerospace
+624,Firefly Aerospace
+625,Babel Finance
+626,Babel Finance
+627,Babel Finance
+628,Trendy Group International
+52,GrubMarket
+194,GrubMarket
+629,GrubMarket
+630,BeZero
+631,BeZero
+632,BeZero
+20,Cohere
+121,Cohere
+581,Cohere
+48,GO1
+193,GO1
+633,GO1
+634,Clear Street
+619,Clear Street
+635,Clear Street
+346,Drata
+636,Drata
+52,Drata
+14,Mysten Labs
+188,Mysten Labs
+637,Mysten Labs
+638,Liquid AI
+639,Liquid AI
+640,Liquid AI
+392,Avant
+396,Avant
+641,Avant
+4,Tubatu.com
+125,Tubatu.com
+642,Tubatu.com
+58,BlaBlaCar
+20,BlaBlaCar
+174,BlaBlaCar
+643,HuiMin
+644,HuiMin
+645,HuiMin
+646,Preferred Networks
+647,Preferred Networks
+648,Preferred Networks
+459,Formlabs
+104,Formlabs
+508,Formlabs
+174,Calm
+137,Calm
+72,Calm
+99,Kaseya
+649,Kaseya
+650,Kaseya
+309,Mafengwo
+651,Mafengwo
+102,Mafengwo
+180,Druva
+162,Druva
+3,Druva
+52,Kujiale
+25,Kujiale
+652,Kujiale
+653,AppsFlyer
+459,AppsFlyer
+654,AppsFlyer
+655,Redis
+19,Redis
+115,Redis
+125,Xingyun Group
+656,Xingyun Group
+657,Xingyun Group
+343,Unqork
+13,Unqork
+658,Unqork
+82,Virta Health
+659,Virta Health
+76,Virta Health
+214,ISN
+660,Clearco
+278,Clearco
+555,Clearco
+661,Hive
+662,Hive
+68,Hive
+20,Kry
+66,Kry
+49,Kry
+330,Kajabi
+23,Kajabi
+441,Kajabi
+49,PayFit
+663,PayFit
+664,PayFit
+125,Beisen
+4,Beisen
+665,Beisen
+231,Pipe
+666,Pipe
+667,Pipe
+67,Iterable
+668,Iterable
+20,Iterable
+323,Bunq
+27,Neko Health
+68,Neko Health
+669,Clip
+102,Clip
+7,Clip
+88,Loggi
+670,Loggi
+99,MURAL
+23,MURAL
+514,MURAL
+671,OCSiAl
+672,OCSiAl
+357,Apeel Sciences
+673,Apeel Sciences
+14,Apeel Sciences
+4,Opay
+674,Opay
+675,Opay
+265,Aviatrix
+327,Aviatrix
+67,Aviatrix
+676,SmartNews
+677,SmartNews
+352,SmartNews
+49,Misfits Market
+678,Misfits Market
+79,Misfits Market
+679,Advance Intelligence Group
+604,Advance Intelligence Group
+53,Advance Intelligence Group
+61,Modern Treasury
+60,Modern Treasury
+680,Modern Treasury
+659,Magic Leap
+88,Magic Leap
+14,Magic Leap
+681,Everlaw
+69,Everlaw
+14,Everlaw
+682,Zilch
+683,Zilch
+684,Zilch
+685,VerbIT
+686,VerbIT
+687,VerbIT
+3,StarkWare
+411,StarkWare
+580,StarkWare
+14,Netlify
+56,Netlify
+688,Netlify
+7,LTK
+689,LTK
+690,Trax
+222,Trax
+691,Trax
+692,Exotec
+693,Exotec
+694,Exotec
+27,Dremio
+216,Dremio
+17,Dremio
+695,Akulaku
+25,Akulaku
+696,Akulaku
+214,Cloudinary
+183,Cloudinary
+697,Lunar
+698,Lunar
+699,Lunar
+88,UpGrad
+49,UpGrad
+233,UpGrad
+35,Salsify
+700,Salsify
+76,Salsify
+23,CertiK
+27,CertiK
+362,CertiK
+4,ROX Motor
+25,ROX Motor
+309,ROX Motor
+99,Devo Technology
+561,Devo Technology
+183,Devo Technology
+701,ShiftKey
+702,Rimac Automobili
+703,Rimac Automobili
+7,Rimac Automobili
+704,Geek+
+705,Geek+
+196,Geek+
+706,Solugen
+707,Solugen
+226,Solugen
+605,Rain
+17,Rain
+27,Rain
+708,ZigBang
+709,ZigBang
+710,ZigBang
+711,SemiDrive
+712,SemiDrive
+713,SemiDrive
+145,Ankorstore
+228,Ankorstore
+260,Ankorstore
+525,Writer
+357,Writer
+448,Writer
+714,eDaili
+715,eDaili
+716,eDaili
+717,commercetools
+718,commercetools
+49,commercetools
+234,MX
+719,MX
+277,MX
+23,CoinSwitch
+140,CoinSwitch
+22,CoinSwitch
+720,Acorns
+115,Acorns
+264,Acorns
+49,Fever
+721,Fever
+200,Fever
+1,Roofstock
+115,Roofstock
+27,Roofstock
+61,thatgamecompany
+3,thatgamecompany
+722,thatgamecompany
+167,ConcertAI
+723,ConcertAI
+724,ConcertAI
+115,Material Bank
+7,Material Bank
+110,Material Bank
+725,OLIPOP
+726,ENOVATE
+121,MEGAZONE
+727,MEGAZONE
+728,MEGAZONE
+729,CFGI
+730,CFGI
+8,ZocDoc
+1,ZocDoc
+18,ZocDoc
+731,ID.me
+732,ID.me
+733,ID.me
+734,Scroll
+4,Scroll
+735,Scroll
+736,Diamond Foundry
+530,Diamond Foundry
+737,Diamond Foundry
+738,Quantexa
+739,Quantexa
+417,Quantexa
+118,FullStory
+56,FullStory
+163,FullStory
+655,Lightricks
+99,Lightricks
+685,Lightricks
+18,Lightricks
+740,Opentrons
+1,Opentrons
+741,Opentrons
+392,Kindbody
+118,Kindbody
+742,Kindbody
+743,Slice
+380,Slice
+744,Slice
+745,Cambrian BioPharma
+746,Cambrian BioPharma
+531,Cambrian BioPharma
+106,Bedrock Robotics
+747,Trulioo
+148,Trulioo
+748,Trulioo
+240,Creditas
+749,Creditas
+750,Creditas
+68,Spinny
+751,Spinny
+752,Spinny
+753,Orca Security
+216,Orca Security
+52,Orca Security
+216,Apus Group
+754,Apus Group
+755,Apus Group
+756,Flatpay
+739,Flatpay
+145,Razor
+757,Razor
+131,Razor
+305,Micro Connect
+329,Micro Connect
+758,Micro Connect
+623,DailyPay
+759,DailyPay
+760,DailyPay
+21,Udaan
+27,Udaan
+761,Udaan
+2,Harry's
+23,Harry's
+226,Harry's
+673,PAX
+762,PAX
+23,PAX
+564,DispatchHealth
+763,DispatchHealth
+764,DispatchHealth
+14,LMArena
+765,Pax8
+766,Pax8
+668,Pax8
+27,Multiverse
+118,Multiverse
+68,Multiverse
+3,Front
+449,Front
+121,Front
+68,Redesign Health
+640,Redesign Health
+767,Redesign Health
+768,Tessera Therapeutics
+7,Tessera Therapeutics
+372,Tessera Therapeutics
+34,SafetyCulture
+769,SafetyCulture
+23,SafetyCulture
+770,Ascend Elements
+771,Ascend Elements
+772,Ascend Elements
+572,Uniswap
+773,Uniswap
+411,Uniswap
+774,Frore Systems
+105,Frore Systems
+775,Frore Systems
+504,Kredivo Holdings
+456,Kredivo Holdings
+776,Kredivo Holdings
+393,Axiom Math
+69,Axiom Math
+774,Axiom Math
+15,Pathos
+135,Hadrian
+212,Hadrian
+14,Hadrian
+777,Whop
+778,Whop
+99,Unite Us
+3,Unite Us
+20,Unite Us
+286,CircleCI
+779,CircleCI
+780,CircleCI
+32,Wave
+8,Wave
+499,Wave
+781,Dragos
+782,Dragos
+783,Dragos
+43,Reltio
+784,Reltio
+605,Reltio
+180,H2O.ai
+785,H2O.ai
+786,H2O.ai
+264,ZenBusiness
+741,ZenBusiness
+787,ZenBusiness
+788,Carsome
+789,Carsome
+790,Carsome
+20,Productboard
+56,Productboard
+183,Productboard
+7,Spotter
+791,Spotter
+792,Spotter
+411,Optimism
+793,Optimism
+14,Optimism
+27,Dexterity
+414,Dexterity
+659,Incredible Health
+14,Incredible Health
+617,Incredible Health
+794,Modular AI
+68,Modular AI
+118,Modular AI
+795,NewLimit
+796,NewLimit
+414,NewLimit
+797,Jusfoun Big Data
+798,Jusfoun Big Data
+25,Jusfoun Big Data
+176,FloQast
+99,FloQast
+17,FloQast
+88,Weka
+771,Weka
+799,Weka
+800,DealShare
+173,DealShare
+23,DealShare
+801,Zhubajie
+25,Zhubajie
+802,Solaris
+468,Solaris
+803,Solaris
+180,Apollo
+3,Apollo
+115,Apollo
+804,Cao Cao Mobility
+805,Cao Cao Mobility
+270,cult.fit
+49,cult.fit
+381,cult.fit
+3,Clari
+115,Clari
+806,Clari
+52,Monte Carlo
+49,Monte Carlo
+216,Monte Carlo
+14,Cresta
+62,Cresta
+3,Cresta
+807,Extend
+330,Extend
+259,Extend
+808,Employment Hero
+537,Employment Hero
+809,Employment Hero
+27,Nirvana
+68,Nirvana
+51,Cognite
+49,Cognite
+810,Cognite
+8,Eight Slep
+1,Eight Slep
+183,Render
+811,Render
+105,Render
+115,ShopMy
+183,ShopMy
+245,Chapter
+812,Tide
+245,Plata
+76,Altruist
+813,Altruist
+814,Altruist
+532,ASAPP
+815,ASAPP
+555,ASAPP
+471,SmartHR
+816,SmartHR
+817,SmartHR
+14,Mercury
+33,Mercury
+614,Mercury
+134,HomeLight
+69,HomeLight
+43,HomeLight
+174,ezCater
+236,ezCater
+818,ezCater
+579,Wayflyer
+21,Wayflyer
+378,Wayflyer
+3,Capitolis
+20,Capitolis
+819,Capitolis
+3,Magic Eden
+27,Magic Eden
+411,Magic Eden
+48,Pave
+14,Pave
+183,Pave
+820,Promasidor Holdings
+821,Promasidor Holdings
+24,GalaxySpace
+822,GalaxySpace
+87,GalaxySpace
+823,Icon
+824,Icon
+825,Icon
+826,Fresh Life Style Supply Chain Management
+827,Fresh Life Style Supply Chain Management
+828,Fresh Life Style Supply Chain Management
+183,Alloy
+220,Alloy
+571,Alloy
+829,Huntress
+605,Huntress
+830,Huntress
+4,Wenheyou
+196,Wenheyou
+25,Wenheyou
+831,Kitopi
+832,Kitopi
+833,Kitopi
+834,Ximalaya FM
+281,Ximalaya FM
+835,Ximalaya FM
+221,Carzone
+836,Carzone
+837,Carzone
+838,Pump
+279,Science
+1,Science
+68,Anaconda
+839,Anaconda
+840,Anaconda
+8,Lighter
+22,Lighter
+127,Lighter
+841,You.com
+121,You.com
+842,You.com
+183,Upwind
+127,Upwind
+843,Upwind
+386,Sigma Computing
+844,Sigma Computing
+365,Sigma Computing
+845,Ninja
+99,OpenWeb
+50,OpenWeb
+846,OpenWeb
+3,Mu Sigma
+102,Mu Sigma
+614,Kushki
+847,Kushki
+240,Kushki
+342,Jasper
+45,Jasper
+848,Jasper
+849,Orna Therapeutics
+850,Orna Therapeutics
+851,Orna Therapeutics
+52,TuJia
+852,TuJia
+196,Mofang Living
+96,Mofang Living
+221,DT Dream
+853,DT Dream
+854,DT Dream
+583,Changingedu
+25,Changingedu
+4,Changingedu
+425,XiaoZhu
+651,XiaoZhu
+855,XiaoZhu
+87,JOLLY Information Technology
+856,JOLLY Information Technology
+4,JOLLY Information Technology
+674,Yijiupi
+857,Yijiupi
+39,Yijiupi
+7,Cambridge Mobile Telematics
+15,Collective Health
+8,Collective Health
+118,Collective Health
+17,Zenoti
+49,Zenoti
+23,Zenoti
+3,Snapdocs
+48,Snapdocs
+75,Snapdocs
+858,Chipper Cash
+238,Chipper Cash
+789,Chipper Cash
+428,Ledger
+859,Ledger
+860,Ledger
+861,Next Silicon
+192,Next Silicon
+554,Next Silicon
+674,YQNlink
+33,YQNlink
+695,YQNlink
+216,impact.com
+862,impact.com
+348,impact.com
+240,NotCo
+740,NotCo
+23,NotCo
+92,Culture Amp
+20,Culture Amp
+34,Culture Amp
+99,TaxBit
+188,TaxBit
+259,TaxBit
+145,Pacaso
+620,Pacaso
+264,Pacaso
+863,1047 Games
+182,1047 Games
+864,1047 Games
+434,Matillion
+605,Matillion
+16,Matillion
+33,Persona
+20,Persona
+8,Persona
+865,Ascend Money
+866,Ascend Money
+867,Ascend Money
+47,Andela
+118,Andela
+463,Andela
+868,Built
+20,Built
+51,Built
+203,CoinList
+599,CoinList
+869,CoinList
+870,Lusha
+871,Lusha
+235,Olist
+598,Olist
+872,Olist
+49,Airbyte
+61,Airbyte
+873,Airbyte
+359,StoreDot
+874,StoreDot
+875,StoreDot
+20,Spendesk
+263,Spendesk
+102,Spendesk
+49,Veriff
+45,Veriff
+23,Veriff
+381,ElasticRun
+17,ElasticRun
+876,ElasticRun
+68,Veho
+877,Veho
+878,Veho
+216,Fabric
+216,Fabric
+17,Fabric
+17,Fabric
+281,Fabric
+281,Fabric
+879,Boba
+880,Boba
+881,Boba
+183,Upside
+882,Upside
+68,Upside
+15,Mashgin
+883,Mashgin
+884,Mashgin
+295,Dock
+885,Dock
+886,Dock
+515,Prometheus
+887,Prometheus
+888,Prometheus
+889,5ire
+890,5ire
+891,5ire
+656,Yipin Shengxian
+651,Yipin Shengxian
+892,Yipin Shengxian
+283,Bordrin Motors
+893,Bordrin Motors
+732,Arcadia
+782,Arcadia
+108,Arcadia
+303,VTS
+110,VTS
+435,VTS
+894,Shukun Technology
+250,Shukun Technology
+834,Shukun Technology
+657,Huasun
+895,Huasun
+577,Loft
+14,Loft
+579,Loft
+49,Tailscale
+896,Paxini
+897,Paxini
+898,Paxini
+22,Harmonic
+414,Harmonic
+224,Coocaa
+39,Coocaa
+110,Placer.ai
+899,Placer.ai
+900,Placer.ai
+901,Juma Peisong
+902,Juma Peisong
+903,Juma Peisong
+904,Ouyeel
+102,Gymshark
+378,M1
+614,M1
+412,M1
+905,Aleo
+14,Aleo
+7,Aleo
+226,Einride
+906,Einride
+611,Einride
+20,Justworks
+2,Justworks
+115,Justworks
+4,Valgen Medtech
+907,Valgen Medtech
+309,Valgen Medtech
+908,SonderMind
+68,SonderMind
+909,SonderMind
+910,Zhiyuan Robot
+911,Zhiyuan Robot
+912,Rebellions
+913,Rebellions
+359,Rebellions
+774,Fundamental
+16,Fundamental
+415,Route
+528,Route
+127,Route
+914,Neysa
+180,Neysa
+915,Neysa
+916,Harmattan AI
+917,Harmattan AI
+918,NIUM
+145,NIUM
+919,NIUM
+920,Fox Ess
+921,Fox Ess
+922,Liquid Death
+923,Liquid Death
+924,Liquid Death
+55,Papa
+233,Papa
+72,Papa
+17,Xpressbees
+925,Xpressbees
+214,Xpressbees
+926,Figment
+275,Figment
+927,Figment
+14,Envoy
+55,Envoy
+928,Envoy
+929,Deliverect
+930,Deliverect
+268,Deliverect
+532,SparkCognition
+226,SparkCognition
+931,SparkCognition
+932,Liquidity
+47,Liquidity
+335,Firebolt
+134,Firebolt
+183,Firebolt
+933,AI21 Labs
+459,AI21 Labs
+934,AI21 Labs
+15,Koudai
+23,Koudai
+54,Koudai
+935,Symphony
+18,Symphony
+11,Symphony
+936,Yidian Zixun
+937,Yidian Zixun
+938,Cabify
+939,Cabify
+940,Cabify
+656,Hive Box
+941,Hive Box
+942,Hive Box
+145,Away
+324,Away
+42,Away
+15,Kong
+67,Kong
+20,Kong
+369,Epidemic Sound
+214,Epidemic Sound
+183,Yotpo
+480,Yotpo
+747,Yotpo
+140,Rebel Foods
+943,Rebel Foods
+33,Rebel Foods
+317,Stash
+944,Stash
+133,Stash
+93,Rad Power Bikes
+945,Rad Power Bikes
+292,Rad Power Bikes
+40,Clarify Health
+946,Clarify Health
+47,Clarify Health
+562,Bucketplace
+947,Bucketplace
+948,Bucketplace
+484,Paddle
+949,Paddle
+950,Paddle
+140,OneCard
+195,OneCard
+173,OneCard
+88,boAT
+951,boAT
+281,Phenom People
+952,Phenom People
+953,Phenom People
+954,GupShup
+955,GupShup
+67,GupShup
+416,Degreed
+956,Degreed
+412,Degreed
+194,Scalable Capital
+957,Scalable Capital
+429,Scalable Capital
+958,VideoAmp
+959,VideoAmp
+960,VideoAmp
+961,Panther Labs
+962,Panther Labs
+27,Panther Labs
+48,Salt Security
+819,Salt Security
+162,Salt Security
+27,Tripledot
+791,Tripledot
+587,Tripledot
+3,Nimble Rx
+963,Nimble Rx
+964,Nimble Rx
+155,Veepee
+965,Veepee
+966,Neon
+577,Neon
+967,Neon
+20,Patreon
+2,Patreon
+67,Patreon
+968,Xpanceo
+969,DeepBlue Technology
+970,DeepBlue Technology
+971,DeepBlue Technology
+972,Garner
+4,Klook
+18,Klook
+125,Klook
+106,Epirus
+470,Epirus
+973,Epirus
+234,Netradyne
+974,Netradyne
+88,Netradyne
+69,Signifyd
+975,Signifyd
+204,Signifyd
+39,Jaguar Microsystems
+976,Jaguar Microsystems
+477,Jaguar Microsystems
+683,Tekever
+977,Tekever
+978,Motorway
+515,Motorway
+20,Motorway
+179,Human Interest
+905,Human Interest
+449,Human Interest
+979,RIDI
+980,RIDI
+981,RIDI
+982,Lyten
+983,Lyten
+984,Lyten
+56,Flipboard
+324,Flipboard
+99,Flipboard
+18,GPclub
+985,Tongdun Technology
+986,Tongdun Technology
+987,Tongdun Technology
+988,Athletic Greens
+989,Athletic Greens
+990,Athletic Greens
+309,Unisound
+991,Unisound
+88,Unisound
+545,Alzheon
+992,Alzheon
+49,Higgsfield
+993,Higgsfield
+994,Higgsfield
+686,Tulip
+995,Tulip
+25,BrainCo
+996,MasterControl
+700,24M Technology
+67,24M Technology
+997,24M Technology
+216,Scribe
+998,Scribe
+999,Scribe
+1000,eFishery
+959,eFishery
+444,eFishery
+380,Purplle
+1001,Purplle
+1002,Purplle
+3,Zum
+515,Zum
+47,Zum
+1003,HeartFlow
+1004,HeartFlow
+399,Shiprocket
+532,Shiprocket
+101,Shiprocket
+1005,Shiprocket
+660,Everly Health
+1006,Everly Health
+1007,Everly Health
+23,Nothing
+1008,Nothing
+688,Nothing
+756,Deepgram
+528,Deepgram
+267,Deepgram
+33,Manner
+1009,Manner
+651,Manner
+99,DistroKid
+348,DistroKid
+1010,DistroKid
+240,Konfio
+579,Konfio
+1011,Konfio
+183,Betterment
+69,Betterment
+1012,Betterment
+185,Flock Freight
+1013,Flock Freight
+118,Flock Freight
+27,YugaByte
+19,YugaByte
+1014,YugaByte
+550,Lukka
+576,Lukka
+1015,Lukka
+378,iTrustCapital
+1016,iTrustCapital
+134,Domestika
+1017,Domestika
+55,CoinTracker
+68,CoinTracker
+1018,CoinTracker
+1019,Loadsmart
+888,Loadsmart
+194,Loadsmart
+1020,TUNGEE
+309,TUNGEE
+52,TUNGEE
+99,Yubi
+166,Yubi
+27,Yubi
+537,LinkTree
+99,LinkTree
+20,LinkTree
+82,Clipboard Health
+55,Clipboard Health
+48,Clipboard Health
+1021,STORD
+884,STORD
+8,STORD
+183,Optibus
+99,Optibus
+459,Optibus
+1022,Keyfactor
+1023,Keyfactor
+99,Keyfactor
+1024,Equashield
+258,Intercom
+23,Intercom
+1025,OVO Energy
+1026,OVO Energy
+25,Huisuanzhang
+1027,Huisuanzhang
+1028,Huisuanzhang
+1029,Curative
+1030,Curative
+1031,WTOIP
+690,WTOIP
+1032,WTOIP
+1033,PeopleCert
+39,Greater Bay Technology
+1034,Greater Bay Technology
+1035,Greater Bay Technology
+25,JMGO
+1036,JMGO
+1037,JMGO
+69,Goodfire
+27,Goodfire
+393,Goodfire
+1038,MainFunc
+1038,MainFunc
+49,Linear
+8,Gecko Robotics
+909,Gecko Robotics
+794,Gecko Robotics
+177,BigID
+1039,BigID
+434,BigID
+1040,Polyhedra Network
+1041,Polyhedra Network
+1042,Polyhedra Network
+4,Kuaikan Manhua
+1043,Kuaikan Manhua
+39,Kuaikan Manhua
+242,Marshmallow
+615,Marshmallow
+1044,Marshmallow
+14,Honor Technology
+876,Honor Technology
+2,Honor Technology
+102,QI Tech
+479,Mythical Games
+1045,Mythical Games
+1046,Mythical Games
+1047,Incode Technologies
+1048,Incode Technologies
+1049,Incode Technologies
+39,Flipdish
+23,Flipdish
+145,Flipdish
+3,CaptivateIQ
+48,CaptivateIQ
+49,CaptivateIQ
+1050,Talos
+259,Talos
+14,Talos
+1051,airSlate
+1052,airSlate
+68,airSlate
+68,ClassDojo
+1053,ClassDojo
+39,ClassDojo
+1054,BrewDog
+1055,BrewDog
+39,Enflame
+1056,Enflame
+675,Enflame
+309,Shulan Health
+49,SeatGeek
+83,SeatGeek
+1057,SeatGeek
+1058,Lila Sciences
+1059,Lila Sciences
+589,Lila Sciences
+1060,InDrive
+99,InDrive
+68,InDrive
+1,Imprint
+414,Imprint
+1061,Spiber
+1062,Spiber
+729,Spiber
+1063,Insider
+813,Insider
+885,Insider
+1064,Kallyope
+590,Kallyope
+212,Kallyope
+1065,Juspay
+1066,Juspay
+49,Juspay
+450,Strava
+1067,Strava
+3,Strava
+67,Zip
+23,Zip
+48,Zip
+1068,Cart.com
+1069,Cart.com
+731,Cart.com
+683,Allica Bank
+976,Hailo
+1070,Hailo
+49,MoneyView
+1071,MoneyView
+1072,MoneyView
+1073,Preply
+1074,Preply
+956,Preply
+1075,Tala Health
+326,Seekr
+102,Nerdio
+210,Nerdio
+1076,Nerdio
+605,Creatio
+515,Our Next Energy
+207,Our Next Energy
+1077,Our Next Energy
+99,Astronomer
+115,Astronomer
+281,Astronomer
+375,Castore
+1078,Castore
+1079,Castore
+1080,Oyster
+190,Oyster
+259,Oyster
+42,Glossier
+45,Glossier
+2,Glossier
+1081,Workhuman
+528,Qumulo
+56,Qumulo
+660,Qumulo
+605,Hightouch
+115,Hightouch
+218,Hightouch
+341,Tealium
+360,Tealium
+1082,Tealium
+49,Public
+264,Public
+1083,Public
+674,Pipa Coding
+319,Pipa Coding
+362,Pipa Coding
+20,Pilot
+3,Pilot
+238,Pilot
+4,Aibee
+1084,Aibee
+1085,Aibee
+204,Vectra Networks
+1,Vectra Networks
+402,Vectra Networks
+1086,Ada
+183,Ada
+258,Ada
+25,SmartMore
+53,SmartMore
+4,SmartMore
+499,Rohlik Group
+20,Rohlik Group
+1087,Rohlik Group
+88,MindTickle
+49,MindTickle
+233,MindTickle
+580,Offchain Labs
+599,Offchain Labs
+27,Offchain Labs
+99,Copado
+121,Copado
+1088,Copado
+49,Gem
+62,Gem
+330,Gem
+140,CarDekho
+362,CarDekho
+1089,CarDekho
+1090,The Good Glamm Group
+1091,The Good Glamm Group
+183,The Good Glamm Group
+127,AgentSync
+82,AgentSync
+1092,AgentSync
+140,Pristyn Care
+195,Pristyn Care
+1093,Pristyn Care
+872,Merama
+289,Merama
+448,Merama
+1094,SeekOut
+528,SeekOut
+23,SeekOut
+289,BigPanda
+16,BigPanda
+433,BigPanda
+504,LivSpace
+954,LivSpace
+1095,LivSpace
+258,Nova Labs
+23,Nova Labs
+1096,Nova Labs
+183,Choco
+1051,Choco
+99,Choco
+56,Viz.ai
+67,Viz.ai
+286,Viz.ai
+49,Unit
+1097,Unit
+1098,Unit
+679,stori
+674,stori
+27,stori
+730,Spectrum Medical
+1099,Celestial AI
+1100,Celestial AI
+1101,Celestial AI
+1102,Swiftly
+1103,Swiftly
+1104,Swiftly
+909,Alpaca
+101,Alpaca
+47,Alpaca
+115,Sunday
+245,Sunday
+61,Sunday
+35,CloudBees
+27,CloudBees
+1105,CloudBees
+49,Basis
+118,Basis
+1,Basis
+1,DevRev
+1094,DevRev
+775,DevRev
+1106,Flink
+241,Flink
+876,Flink
+1107,L&P Cosmetic
+229,Vestiaire Collective
+1108,Vestiaire Collective
+448,Vestiaire Collective
+4,Luoji Siwei
+309,Luoji Siwei
+39,Luoji Siwei
+8,Stark
+3,Stark
+106,Stark
+674,Yimidida
+1109,Yimidida
+714,Yimidida
+56,Modern Health
+1110,Modern Health
+8,Modern Health
+1111,Uzum
+207,SOURCE Global
+1112,SOURCE Global
+1113,SOURCE Global
+289,LifeMiles
+76,Rebellion Defense
+961,Rebellion Defense
+1114,Rebellion Defense
+68,Elemy
+1115,Elemy
+92,Elemy
+1116,TELD
+1117,TELD
+1118,TELD
+69,Enable
+17,Enable
+281,Enable
+365,Coralogix
+1119,Coralogix
+554,Coralogix
+865,DANA
+1120,DANA
+1121,DANA
+49,Tines
+105,Tines
+20,Tines
+27,At-Bay
+1,At-Bay
+559,At-Bay
+431,Visby Medical
+459,Visby Medical
+1122,Visby Medical
+357,Invoca
+49,Invoca
+1123,Invoca
+115,Dream Security
+554,Dream Security
+45,LangChain
+3,LangChain
+1124,TalkingData
+1125,TalkingData
+1126,TalkingData
+180,Rapido
+1127,Rapido
+1128,Rapido
+1129,Wasabi
+775,Wasabi
+1130,Wasabi
+1131,Halan
+813,Halan
+1132,Halan
+25,Rokid
+1133,Rokid
+652,Rokid
+173,Krutrim
+49,Headway
+2,Headway
+14,Headway
+1134,Thyme Care
+544,Thyme Care
+14,Thyme Care
+216,Flexe
+1135,Flexe
+528,Flexe
+1136,TangoMe
+88,TangoMe
+221,TangoMe
+1137,AppDirect
+1138,AppDirect
+508,AppDirect
+1139,Juanpi
+1140,Juanpi
+1141,Juanpi
+40,OVH
+1142,OVH
+47,GetYourGuide
+232,GetYourGuide
+1143,GetYourGuide
+1144,Ivalua
+23,Ivalua
+40,Ivalua
+1145,Sisense
+1146,Sisense
+16,Sisense
+729,Pharmapacks
+1147,Sennder
+182,Sennder
+487,Zego
+448,Zego
+142,Zego
+134,Sunbit
+1148,Sunbit
+556,Sunbit
+1149,Qingting FM
+1150,Qingting FM
+1151,Qingting FM
+1152,G2
+49,G2
+1153,G2
+1154,Caribou
+203,Caribou
+823,Caribou
+577,Nowports
+342,Nowports
+1155,Nowports
+52,People.ai
+27,People.ai
+236,People.ai
+452,Carousell
+1156,Carousell
+1157,Carousell
+140,apna
+1158,apna
+141,apna
+106,Karat
+17,Karat
+23,Karat
+239,Enpal
+124,Enpal
+194,Enpal
+1159,Acko General Insurance
+559,Acko General Insurance
+102,Acko General Insurance
+1160,The Bank of London
+1161,The Bank of London
+1,Fundbox
+68,Fundbox
+747,Fundbox
+342,Turing
+1162,Turing
+50,Turing
+406,LEAD
+1017,LEAD
+1163,LEAD
+1164,eSentire
+341,eSentire
+1165,eSentire
+15,Beyond Identity
+1166,Beyond Identity
+1167,Beyond Identity
+99,Staffbase
+720,Staffbase
+102,Staffbase
+68,Chief
+1168,Chief
+551,Chief
+1169,IntelyCare
+1170,IntelyCare
+1171,IntelyCare
+56,Teleport
+962,Teleport
+99,Teleport
+14,Imply Data
+183,Imply Data
+1,Imply Data
+14,Material Security
+8,Material Security
+488,Recover
+1172,Recover
+368,CAIS
+1173,CAIS
+1174,Nxin
+1175,Nxin
+477,UISEE Technology
+1176,UISEE Technology
+1177,UISEE Technology
+1178,56PINGTAI
+1179,56PINGTAI
+1180,56PINGTAI
+1181,Cirkul
+1182,Cirkul
+988,Cirkul
+1183,Radius Payment Solutions
+393,PaleBlueDot AI
+412,0x
+580,0x
+62,0x
+4,Jiuxian
+1184,Jiuxian
+1185,Jiuxian
+15,Instabase
+62,Instabase
+14,Instabase
+1186,Sendbird
+48,Sendbird
+23,Sendbird
+8,Density
+357,Density
+153,Density
+1187,Mixpanel
+14,Mixpanel
+3,Mixpanel
+1188,Branch
+1188,Branch
+264,Branch
+264,Branch
+185,Branch
+185,Branch
+28,OrCam Technologies
+1189,OrCam Technologies
+22,Juniper Square
+216,Juniper Square
+1190,Juniper Square
+1191,B&C Chemical
+644,B&C Chemical
+1128,Ample
+214,Ample
+389,Ample
+31,Beacon
+68,Beacon
+8,Substrate
+68,Substrate
+842,Reka AI
+814,Cyberhaven
+1192,Wheel
+1193,Wheel
+67,Wheel
+68,Meter
+14,Periodic Labs
+1194,Apex
+106,Apex
+234,Apex
+317,Midi
+1195,Midi
+1196,Enveda
+288,Enveda
+1197,MainFunc
+1197,MainFunc
+47,Eve
+27,Eve
+14,Eve
+14,Ambience
+414,Ambience
+1198,Zama
+1065,Porter
+1199,Porter
+135,Govini
+161,Govini
+3,Govini
+1200,Zyphra
+745,Zyphra
+28,Zyphra
+550,Zero Hash
+1201,Zero Hash
+234,Zero Hash
+1202,Solace
+1168,Solace
+45,Solace
+1203,Endless
+22,The Open Platform
+118,Randpanda
+1204,Randpanda
+330,BuildOps
+1205,BuildOps
+1206,BuildOps
+20,Nourish
+3,MUBI
+995,MUBI
+236,Assured
+414,Assured
+1207,Assured
+183,Halter
+34,Halter
+730,Airalo
+444,Airalo
+1208,QuEra Computing
+841,QuEra Computing
+1209,QuEra Computing
+1210,Rentberry
+1211,Rentberry
+1212,Rentberry
+1213,Vestwell
+261,Vestwell
+27,Vestwell
+75,Lighthouse
+263,Lighthouse
+886,Moniepoint
+1214,Moniepoint
+579,Moniepoint
+1,Speak
+37,Speak
+8,Speak
+276,Flo Health
+142,Flo Health
+1215,Flo Health
+31,Just Salad
+604,Nimble
+74,Nimble
+49,Nimble
+115,Halcyon
+1216,Halcyon
+1167,Halcyon
+87,VectorBuilder
+990,Cosm
+1197,The Sandbox
+1217,The Sandbox
+1218,The Sandbox
+739,Minute Media
+16,Minute Media
+1219,Minute Media
+14,World Labs
+842,World Labs
+15,World Labs
+453,Merkle Manufactory
+14,Merkle Manufactory
+170,Merkle Manufactory
+183,Perfios
+1220,Perfios
+1221,Semperis
+1222,Semperis
+1223,Semperis
+657,Xreal
+478,Xreal
+644,Xreal
+526,Silverfort
+267,Silverfort
+1224,Silverfort
+258,Pigment
+330,Pigment
+45,Pigment
+1225,Huma
+771,Huma
+1226,Huma
+1048,Andalusia Labs
+115,Andalusia Labs
+1227,Andalusia Labs
+99,EmployerDirect Healthcare
+1228,EmployerDirect Healthcare
+1229,Electric Hydrogen
+207,Electric Hydrogen
+1230,Electric Hydrogen
+1231,TechMet
+1227,TechMet
+118,Altana AI
+749,Altana AI
+1232,Altana AI
+641,MaintainX
+367,MaintainX
+1233,MaintainX
+1234,MindMaze
+20,DataSnipper
+411,Flashbots
+451,Flashbots
+118,Typeface
+121,Typeface
+69,Typeface
+183,Restaurant365
+14,KoBold Metals
+207,KoBold Metals
+1235,KoBold Metals
+1236,Go
+25,Percent
+1237,1Komma5
+1238,1Komma5
+1239,1Komma5
+1240,Gradiant
+1241,Gradiant
+1242,Gradiant
+264,Palmetto
+741,Palmetto
+1243,Palmetto
+1244,Humanity Protocol
+1245,Humanity Protocol
+1040,Humanity Protocol
+1145,Prove Identity
+392,Prove Identity
+569,Prove Identity
+14,Character.AI
+1246,Atmosphere
+62,Adept
+105,Adept
+193,Adept
+20,Beamery
+688,Beamery
+1247,Beamery
+14,Flow
+1248,Xanadu
+811,Xanadu
+183,Xanadu
+1249,Celestia
+188,Celestia
+1250,Celestia
+27,Stability AI
+33,Stability AI
+886,Satispay
+698,Satispay
+813,Satispay
+911,Paystand
+1251,Paystand
+1252,Paystand
+1253,Turntide Technologies
+110,Turntide Technologies
+1254,Turntide Technologies
+1255,EcoVadis
+1256,EcoVadis
+1257,EcoVadis
+1258,TransferMate
+58,Lookout
+62,Lookout
+175,Lookout
+1259,Snapdeal
+343,Snapdeal
+221,Snapdeal
+35,TechStyle Fashion Group
+1260,TechStyle Fashion Group
+1261,TechStyle Fashion Group
+975,Zebec
+1244,Zebec
+637,Zebec
+56,InMobi
+1262,InMobi
+1263,InMobi
+1264,Red Ventures
+102,Red Ventures
+588,BeiBei
+1265,BeiBei
+1266,BeiBei
+822,Lamabang
+125,Lamabang
+714,Lamabang
+125,Jimu
+1267,Jimu
+24,Jimu
+25,ShareCRM
+1268,ShareCRM
+695,ShareCRM
+4,Mia.com
+53,Mia.com
+1269,Mia.com
+40,58 Daojia
+221,58 Daojia
+1270,58 Daojia
+1140,Womai
+224,Womai
+25,Womai
+1271,HuJiang
+224,HuJiang
+1272,HuJiang
+54,iCarbonX
+1273,iCarbonX
+1274,Kendra Scott
+17,Kendra Scott
+642,Zhuan Zhuan
+39,Zhuan Zhuan
+1275,DianRong
+1111,DianRong
+1276,DianRong
+1277,YH Global
+1278,YH Global
+1279,Revolution Precrafted
+789,Revolution Precrafted
+4,WeLab
+1280,WeLab
+1281,WeLab
+1282,Maimai
+25,Maimai
+695,Maimai
+39,Dxy.cn
+695,Dxy.cn
+1283,HMD Global
+1284,Huike Group
+1285,Huike Group
+1286,Huike Group
+1287,ChinaC.com
+1035,ChinaC.com
+1288,ChinaC.com
+1289,LinkDoc Technology
+15,LinkDoc Technology
+1290,Movile
+1291,Movile
+876,Movile
+1292,Pat McGrath Labs
+229,Pat McGrath Labs
+309,Wacai
+1293,Wacai
+856,Wacai
+1294,FlashEx
+125,FlashEx
+1295,FlashEx
+970,Banma Network Technologies
+1296,Banma Network Technologies
+1297,Banma Network Technologies
+1298,Tresata
+299,Momenta
+39,Momenta
+4,Momenta
+1299,Hosjoy
+1300,Hosjoy
+1301,Hosjoy
+182,Omio
+16,Omio
+15,Omio
+1302,BitFury
+1303,BitFury
+1304,BitFury
+142,REEF Technology
+1305,REEF Technology
+1106,REEF Technology
+7,Globality
+1306,Ynsect
+357,Ynsect
+1108,Ynsect
+21,Poizon
+4,Poizon
+64,Poizon
+1307,SITECH DEV
+1308,KnowBox
+1309,KnowBox
+221,KnowBox
+228,Meero
+145,Meero
+260,Meero
+170,C2FO
+1310,C2FO
+298,C2FO
+591,Numbrs
+1311,Numbrs
+1033,EBANX
+813,EBANX
+125,KK Group
+1312,KK Group
+477,KK Group
+51,Hotmart
+363,Hotmart
+102,Hotmart
+1313,Dubizzle Group
+1314,Dubizzle Group
+1315,Dubizzle Group
+170,Quizlet
+1316,Quizlet
+1207,Quizlet
+27,Orca Bio
+447,Orca Bio
+106,Orca Bio
+1317,Infobip
+421,Zwift
+1318,Zwift
+1319,Zwift
+1320,Playco
+82,Playco
+3,Playco
+1321,Gousto
+950,Gousto
+1226,Gousto
+1207,Alation
+447,Alation
+121,Alation
+1322,Boom
+82,Boom
+48,Boom
+99,Quantum Metric
+115,Quantum Metric
+25,News Break
+1323,News Break
+53,News Break
+551,MadeiraMadeira
+7,MadeiraMadeira
+577,MadeiraMadeira
+1324,PPRO
+229,PPRO
+267,PPRO
+122,Splashtop
+1325,Splashtop
+15,Splashtop
+1326,Axiom Space
+1327,Axiom Space
+1328,Axiom Space
+434,Locus Robotics
+241,Locus Robotics
+23,Locus Robotics
+67,Standard AI
+48,Standard AI
+55,Standard AI
+956,Newsela
+51,Newsela
+673,Newsela
+335,Aqua Security
+27,Aqua Security
+193,Aqua Security
+4,PatSnap
+24,PatSnap
+1329,PatSnap
+166,Evidation
+1330,Evidation
+1331,Evidation
+27,Cameo
+56,Cameo
+877,Cameo
+1332,Hyperchain
+1333,Hyperchain
+1334,Hyperchain
+1192,The Zebra
+49,The Zebra
+1335,The Zebra
+1336,Fiture
+4,Fiture
+1337,Fiture
+580,Injective
+1338,Injective
+1339,Injective
+170,Sift
+99,Sift
+47,Sift
+23,Teya
+615,Teya
+2,Capsule
+93,Capsule
+1051,Capsule
+1340,MOLOCO
+1341,MOLOCO
+1342,MOLOCO
+49,Mux
+1343,Mux
+14,Mux
+656,XForcePlus
+1344,XForcePlus
+1345,XForcePlus
+102,Augustinus Bader
+1346,Shift
+14,Shift
+16,Shift
+835,Zihaiguo
+1347,Zihaiguo
+125,Zihaiguo
+693,Forte Labs
+49,Forte Labs
+374,Forte Labs
+954,Axtria
+1187,Axtria
+140,Axtria
+3,Vise
+8,Vise
+1115,Vise
+1348,Printful
+1349,Matrixport
+309,Matrixport
+21,Matrixport
+1086,Shippo
+449,Shippo
+183,Shippo
+1350,LetsGetChecked
+309,LetsGetChecked
+1351,LetsGetChecked
+1352,EcoFlow
+1353,EcoFlow
+4,EcoFlow
+526,Carro
+1354,Carro
+1157,Carro
+99,Tractable
+265,Tractable
+341,Tractable
+52,Xiaoe Tech
+362,Xiaoe Tech
+25,Xiaoe Tech
+121,Bringg
+231,Bringg
+1355,Bringg
+1146,Simply
+554,Simply
+99,Simply
+841,Worldcoin
+188,Worldcoin
+14,Worldcoin
+479,SmartAsset
+570,SmartAsset
+1356,SmartAsset
+1195,Morning Consult
+409,Morning Consult
+1357,Morning Consult
+342,Visier
+155,Visier
+814,Visier
+1153,ShipBob
+1358,ShipBob
+68,MobileCoin
+745,MobileCoin
+1359,MobileCoin
+528,Amperity
+23,Amperity
+1360,Amperity
+508,Pantheon Systems
+434,Pantheon Systems
+7,Pantheon Systems
+1361,Xiaoice
+1268,Xiaoice
+1362,Xiaoice
+309,Caidya
+1363,Caidya
+4,Caidya
+777,Carson Group
+258,Bluecore
+341,Bluecore
+17,Bluecore
+203,Freshbooks
+1364,Freshbooks
+341,Freshbooks
+62,Gelato
+118,Gelato
+194,Gelato
+1365,Maven
+278,Maven
+3,Maven
+3,PicsArt
+695,PicsArt
+99,PicsArt
+488,1KMXC
+1366,1KMXC
+221,1KMXC
+14,Cider
+21,Cider
+25,Cider
+1144,Berlin Brands Group
+777,Berlin Brands Group
+362,Agile Robots
+4,Agile Robots
+652,Agile Robots
+617,Mammoth Biosciences
+1367,Mammoth Biosciences
+1094,Mammoth Biosciences
+203,Orchard
+1368,Orchard
+258,Orchard
+49,Xendit
+48,Xendit
+1369,Xendit
+1370,TrueLayer
+1371,TrueLayer
+611,TrueLayer
+289,Assembly
+870,Assembly
+862,Assembly
+1372,PandaDoc
+193,PandaDoc
+1316,PandaDoc
+1373,Keenon Robotics
+7,Keenon Robotics
+1374,Keenon Robotics
+39,HAYDON
+362,HAYDON
+166,Ninja Van
+1375,Ninja Van
+1376,Ninja Van
+49,Vedantu
+23,Vedantu
+269,Vedantu
+3,Formation Bio
+2,Formation Bio
+72,Formation Bio
+490,Ajaib
+1354,Ajaib
+1377,Ajaib
+1378,Licious
+399,Licious
+918,Licious
+378,Masterworks
+864,Masterworks
+1379,Masterworks
+379,Solo.io
+60,Solo.io
+216,Solo.io
+315,Savage X Fenty
+133,Savage X Fenty
+316,Savage X Fenty
+20,Swile
+1108,Swile
+230,Swile
+1380,Zopa
+1381,Zopa
+611,Zopa
+1199,Dental Monitoring
+1382,Dental Monitoring
+1383,Dental Monitoring
+598,CargoX
+886,CargoX
+124,CargoX
+961,Fabric
+961,Fabric
+554,Fabric
+554,Fabric
+226,Fabric
+226,Fabric
+741,Augury
+559,Augury
+529,Augury
+52,Moka
+604,Moka
+1384,Moka
+4,Tezign
+652,Tezign
+1385,Tezign
+1033,Vagaro
+1386,IGAWorks
+979,IGAWorks
+1387,IGAWorks
+1388,Contrast Security
+68,Contrast Security
+193,Contrast Security
+1389,Wrapbook
+449,Wrapbook
+14,Wrapbook
+911,Gaussian Robotics
+1390,Gaussian Robotics
+857,Gaussian Robotics
+241,Substack
+14,Substack
+1391,Substack
+49,Mensa Brands
+257,Mensa Brands
+17,Mensa Brands
+488,PLACE
+1049,PLACE
+118,Owkin
+237,Owkin
+1392,Owkin
+1393,Expel
+264,Expel
+434,Expel
+102,NoBroker
+274,NoBroker
+471,NoBroker
+1,Lessen
+68,Lessen
+574,Lessen
+21,Clara
+68,Clara
+577,Clara
+1394,YipitData
+660,YipitData
+729,YipitData
+14,Anyscale
+28,Anyscale
+342,Anyscale
+484,Quantum Systems
+718,Quantum Systems
+40,ReliaQuest
+1033,ReliaQuest
+1222,ReliaQuest
+619,Pet Circle
+172,Pet Circle
+457,Pet Circle
+1395,Nature's Fynd
+1396,Nature's Fynd
+207,Nature's Fynd
+1397,Lydia
+1398,Lydia
+39,Lydia
+610,SellerX
+375,SellerX
+73,SellerX
+14,SnapLogic
+1399,SnapLogic
+265,SnapLogic
+2,Cadence
+68,Cadence
+33,Cadence
+1400,Rothy's
+200,Rothy's
+27,Rothy's
+1215,VOI
+539,VOI
+448,VOI
+88,Haomo.AI
+1401,Haomo.AI
+362,Haomo.AI
+329,Kopi Kenangan
+140,Kopi Kenangan
+1354,Kopi Kenangan
+352,InFarm
+1402,InFarm
+928,InFarm
+226,ONE
+1403,ONE
+495,ONE
+1404,Pentera
+214,Pentera
+99,Pentera
+141,Darwinbox
+140,Darwinbox
+1405,Darwinbox
+68,Minio
+180,Minio
+19,Minio
+1406,Esusu
+1407,Esusu
+7,Esusu
+579,Betterfly
+21,Betterfly
+813,Betterfly
+1408,Dune Analytics
+33,Dune Analytics
+1409,Dune Analytics
+352,Scandit
+1410,Scandit
+118,Scandit
+132,Payhawk
+1411,Payhawk
+579,Payhawk
+56,Watershed
+3,Watershed
+1412,Axelar
+1413,Axelar
+599,Axelar
+16,CHEQ
+23,CHEQ
+1078,CHEQ
+180,Hasura
+686,Hasura
+1414,Hasura
+15,Timescale
+61,Timescale
+275,Timescale
+1415,Scalapay
+23,Scalapay
+1416,Scalapay
+1417,Omada Health
+1418,Omada Health
+14,Omada Health
+106,BlueVoyant
+1419,BlueVoyant
+1420,BlueVoyant
+127,Vendr
+75,Vendr
+72,Vendr
+599,Gauntlet Networks
+411,Gauntlet Networks
+22,Gauntlet Networks
+14,Aptos
+188,Aptos
+23,Aptos
+1421,Glia
+99,Glia
+1422,Glia
+303,CommerceIQ
+528,CommerceIQ
+1423,CommerceIQ
+983,Tarana Wireless
+1,Tarana Wireless
+1424,Tarana Wireless
+1425,FLASH
+1426,FLASH
+311,FLASH
+261,Electric
+183,Electric
+1427,Electric
+1428,BostonGene
+1429,BostonGene
+1430,BostonGene
+1431,Grover
+1432,Grover
+1433,Grover
+15,Genies
+1434,Genies
+360,Genies
+1435,NexHealth
+248,NexHealth
+1436,NexHealth
+16,UPSIDE Foods
+814,UPSIDE Foods
+33,UPSIDE Foods
+1437,Factorial
+66,Factorial
+67,Factorial
+615,Divergent 3D
+329,Divergent 3D
+1046,Divergent 3D
+133,Taxfix
+20,Taxfix
+66,Taxfix
+1378,Open
+23,Open
+226,Open
+1438,Opn
+1439,Opn
+1157,Opn
+47,Remarkable
+44,Habi
+1168,Habi
+23,Habi
+115,CareBridge
+1440,CareBridge
+1441,CareBridge
+104,Immuta
+19,Immuta
+1222,Immuta
+115,JupiterOne
+1440,JupiterOne
+1441,JupiterOne
+16,Vayyar
+183,Vayyar
+517,Vayyar
+1442,LeadSquared
+1443,LeadSquared
+406,LeadSquared
+1153,FourKites
+115,FourKites
+1444,FourKites
+529,VulcanForms
+31,VulcanForms
+1123,VulcanForms
+118,SingleStore
+49,SingleStore
+447,SingleStore
+796,Unstoppable Domains
+1445,Unstoppable Domains
+1446,Unstoppable Domains
