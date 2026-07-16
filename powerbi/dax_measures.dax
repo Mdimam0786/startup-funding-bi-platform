@@ -1,0 +1,268 @@
+// ============================================================
+// Startup Funding & Business Intelligence Platform
+// DAX Measure Library
+// ============================================================
+// Organized by category. All measures assume:
+//   - fact_startup_funding is the primary fact table
+//   - dim_date is marked as a Date Table (Model view > dim_date > Mark as date table)
+//   - dim_date has 3 relationships to fact_startup_funding (founded_date_id,
+//     first_funding_date_id, last_funding_date_id) -- only ONE is active by
+//     default (first_funding_date_id). The other two are inactive and
+//     activated per-measure via USERELATIONSHIP, which is why several
+//     measures below explicitly state which date role they use.
+// ============================================================
+
+// ---------------- 1. CORE KPIs ----------------
+
+Total Funding =
+SUM ( fact_startup_funding[funding_total_usd] )
+
+Total Startups =
+DISTINCTCOUNT ( fact_startup_funding[startup_id] )
+
+Total Investors =
+DISTINCTCOUNT ( dim_investor[investor_id] )
+
+Total Unicorns =
+CALCULATE (
+    DISTINCTCOUNT ( dim_startup[startup_id] ),
+    dim_startup[is_unicorn] = TRUE
+)
+
+Average Funding =
+AVERAGE ( fact_startup_funding[funding_total_usd] )
+
+Median Funding =
+MEDIAN ( fact_startup_funding[funding_total_usd] )
+// NOTE: per the Statistical Analysis report, median's confidence
+// interval is far tighter than the mean's -- prefer this as the headline
+// "typical funding" KPI card, with Average Funding as a secondary card.
+
+Active Countries =
+DISTINCTCOUNT ( dim_geography[country_code] )
+
+Exit Rate % =
+DIVIDE (
+    CALCULATE ( DISTINCTCOUNT ( dim_startup[startup_id] ), dim_startup[is_exited] = TRUE ),
+    [Total Startups]
+)
+
+Closure Rate % =
+DIVIDE (
+    CALCULATE ( DISTINCTCOUNT ( dim_startup[startup_id] ), dim_startup[is_closed] = TRUE ),
+    [Total Startups]
+)
+
+Unicorn Rate % =
+DIVIDE ( [Total Unicorns], [Total Startups] )
+
+
+// ---------------- 2. TIME INTELLIGENCE ----------------
+// All use the first_funding_date_id relationship (the active one) unless noted.
+
+Funding YTD =
+TOTALYTD ( [Total Funding], dim_date[full_date] )
+
+Funding Prior Year =
+CALCULATE ( [Total Funding], SAMEPERIODLASTYEAR ( dim_date[full_date] ) )
+
+Funding YoY Growth % =
+DIVIDE ( [Total Funding] - [Funding Prior Year], [Funding Prior Year] )
+
+Funding QoQ Growth % =
+VAR CurrentQ = [Total Funding]
+VAR PriorQ =
+    CALCULATE ( [Total Funding], DATEADD ( dim_date[full_date], -1, QUARTER ) )
+RETURN
+    DIVIDE ( CurrentQ - PriorQ, PriorQ )
+
+Deals YoY Growth % =
+VAR CurrentDeals = [Total Startups]
+VAR PriorDeals =
+    CALCULATE ( [Total Startups], SAMEPERIODLASTYEAR ( dim_date[full_date] ) )
+RETURN
+    DIVIDE ( CurrentDeals - PriorDeals, PriorDeals )
+
+Rolling 12-Month Funding =
+CALCULATE (
+    [Total Funding],
+    DATESINPERIOD ( dim_date[full_date], MAX ( dim_date[full_date] ), -12, MONTH )
+)
+
+Funding CAGR (start year, end year) =
+VAR StartYear = 2005  // parameterize via a What-If parameter in production
+VAR EndYear = 2014
+VAR StartValue = CALCULATE ( [Total Funding], dim_date[year] = StartYear )
+VAR EndValue = CALCULATE ( [Total Funding], dim_date[year] = EndYear )
+VAR NumYears = EndYear - StartYear
+RETURN
+    IF (
+        StartValue > 0 && NumYears > 0,
+        ( EndValue / StartValue ) ^ ( 1 / NumYears ) - 1
+    )
+
+Founded Date Total Startups =
+// Example of activating an inactive role-playing relationship
+CALCULATE (
+    [Total Startups],
+    USERELATIONSHIP ( fact_startup_funding[founded_date_id], dim_date[date_id] )
+)
+
+Last Funding Activity Count =
+CALCULATE (
+    [Total Startups],
+    USERELATIONSHIP ( fact_startup_funding[last_funding_date_id], dim_date[date_id] )
+)
+
+
+// ---------------- 3. RUNNING TOTALS & CUMULATIVE ----------------
+
+Cumulative Funding =
+CALCULATE (
+    [Total Funding],
+    FILTER ( ALLSELECTED ( dim_date[full_date] ), dim_date[full_date] <= MAX ( dim_date[full_date] ) )
+)
+
+Cumulative % of Total Funding =
+DIVIDE ( [Cumulative Funding], CALCULATE ( [Total Funding], ALLSELECTED ( dim_date ) ) )
+
+
+// ---------------- 4. RANKING & PERCENTILE ----------------
+
+Country Rank by Funding =
+RANKX ( ALL ( dim_geography[country_name] ), [Total Funding], , DESC )
+
+Industry Rank by Funding =
+RANKX ( ALL ( dim_industry[primary_category] ), [Total Funding], , DESC )
+
+Startup Funding Percentile =
+// Requires a disconnected/calculated column upstream, or use PERCENTILEX.INC directly:
+PERCENTILEX.INC (
+    ALLSELECTED ( fact_startup_funding ),
+    fact_startup_funding[funding_total_usd],
+    0.9
+)
+
+Top 10 Flag (Country) =
+IF ( [Country Rank by Funding] <= 10, "Top 10", "Other" )
+
+
+// ---------------- 5. MARKET SHARE & CONTRIBUTION ----------------
+
+Country % of Global Funding =
+DIVIDE ( [Total Funding], CALCULATE ( [Total Funding], ALL ( dim_geography ) ) )
+
+Industry % of Global Funding =
+DIVIDE ( [Total Funding], CALCULATE ( [Total Funding], ALL ( dim_industry ) ) )
+
+Top 10 Countries Contribution % =
+VAR Top10Countries =
+    TOPN ( 10, ALL ( dim_geography[country_name] ), CALCULATE ( [Total Funding] ), DESC )
+VAR Top10Total =
+    CALCULATE ( [Total Funding], Top10Countries )
+VAR GrandTotal =
+    CALCULATE ( [Total Funding], ALL ( dim_geography ) )
+RETURN
+    DIVIDE ( Top10Total, GrandTotal )
+
+
+// ---------------- 6. FUNDING STAGE / ROUND-TYPE MEASURES ----------------
+// These use fact_funding_by_type, the unpivoted narrow fact table.
+
+Funding by Round Type =
+SUM ( fact_funding_by_type[amount_usd] )
+
+Round Type % of Startup Total =
+DIVIDE (
+    [Funding by Round Type],
+    CALCULATE ( [Funding by Round Type], ALL ( dim_round_type ) )
+)
+
+Startups Reaching Late Stage =
+CALCULATE (
+    [Total Startups],
+    fact_startup_funding[furthest_stage_category] = "Late Stage / Public"
+)
+
+
+// ---------------- 7. INVESTOR MEASURES (unicorn-scoped) ----------------
+// IMPORTANT SCOPE NOTE: investor data only exists for the 254 startups
+// matched to the unicorn list -- the broader 67K-startup
+// Crunchbase dataset has no structured investor field. Any visual using
+// these measures must be clearly labeled "Unicorn Portfolio" so it isn't
+// mistaken for investor coverage across the full dataset.
+
+Investor Portfolio Count =
+DISTINCTCOUNT ( bridge_investor_unicorn[company] )
+
+Top Investor Rank =
+RANKX ( ALL ( dim_investor[investor_name] ), [Investor Portfolio Count], , DESC )
+
+
+// ---------------- 8. CUSTOM / COMPOSITE KPIs ----------------
+
+Funding per Startup (Efficiency) =
+DIVIDE ( [Total Funding], [Total Startups] )
+
+Multi-Round Success Lift =
+// Companion stat to the regression finding (is_multi_round: +163% funding)
+VAR MultiRoundExitRate =
+    CALCULATE ( [Exit Rate %], dim_startup[status] <> BLANK (), fact_startup_funding[is_multi_round] = TRUE )
+VAR SingleRoundExitRate =
+    CALCULATE ( [Exit Rate %], fact_startup_funding[is_multi_round] = FALSE )
+RETURN
+    DIVIDE ( MultiRoundExitRate, SingleRoundExitRate )
+
+Dynamic Title - Selected Country =
+VAR SelectedCountry =
+    IF ( HASONEVALUE ( dim_geography[country_name] ), VALUES ( dim_geography[country_name] ), "All Countries" )
+RETURN
+    "Funding Overview: " & SelectedCountry
+
+Dynamic Measure Selector =
+// Pairs with a Field Parameter (Model > New Field Parameter) named "Metric Selector"
+// containing: Total Funding, Total Startups, Median Funding, Exit Rate %
+SWITCH (
+    SELECTEDVALUE ( 'Metric Selector'[Metric Selector] ),
+    "Total Funding", [Total Funding],
+    "Total Startups", [Total Startups],
+    "Median Funding", [Median Funding],
+    "Exit Rate %", [Exit Rate %],
+    [Total Funding]
+)
+
+Startups Founded (What-If Year Threshold) =
+// Pairs with a What-If Parameter "Min Founding Year" (Model > New Parameter > Numeric range)
+VAR MinYear = SELECTEDVALUE ( 'Min Founding Year'[Min Founding Year Value], 2000 )
+RETURN
+    CALCULATE (
+        [Total Startups],
+        USERELATIONSHIP ( fact_startup_funding[founded_date_id], dim_date[date_id] ),
+        dim_date[year] >= MinYear
+    )
+
+Avg Funding Rounds =
+AVERAGE ( fact_startup_funding[funding_rounds] )
+
+Avg Years Since Founded =
+AVERAGE ( fact_startup_funding[years_since_founded] )
+
+City Rank by Funding =
+RANKX ( ALL ( dim_geography[city] ), [Total Funding], , DESC )
+
+Multi-Round Startup % =
+DIVIDE (
+    CALCULATE ( [Total Startups], fact_startup_funding[is_multi_round] = TRUE ),
+    [Total Startups]
+)
+
+KPI Status - Exit Rate =
+// Conditional-formatting-ready indicator (bind to a card's font color rule)
+VAR CurrentRate = [Exit Rate %]
+RETURN
+    SWITCH (
+        TRUE (),
+        CurrentRate >= 0.15, "Green",
+        CurrentRate >= 0.08, "Amber",
+        "Red"
+    )
