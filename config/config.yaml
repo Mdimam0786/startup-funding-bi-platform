@@ -1,0 +1,20 @@
+# Database connection config.
+# Copy this file to config.local.yaml (gitignored) and fill in real values,
+# or override via environment variables PGHOST / PGDATABASE / PGUSER /
+# PGPASSWORD / PGPORT (see src/database/etl_load.py) -- env vars always
+# take precedence, so nothing sensitive needs to live in this file.
+
+database:
+  host: localhost
+  port: 5432
+  dbname: startup_bi_platform_updated
+  user: mdimamuddin
+  # password: set via PGPASSWORD environment variable, never committed here
+
+paths:
+  raw_data: data/raw
+  processed_data: data/processed
+  warehouse_data: data/warehouse
+
+analysis:
+  reference_date: "2015-01-01"  # anchor for age/tenure features -- see docs/data_dictionary.md

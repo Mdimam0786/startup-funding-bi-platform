@@ -1,0 +1,34 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Data - raw/processed excluded by default (large, and sourced from Kaggle
+# rather than owned by this repo); warehouse CSVs and ML artifacts also
+# excluded since they're fully reproducible by re-running the pipeline.
+# Keep this section commented out if you want a fully self-contained repo
+# for portfolio/demo purposes instead.
+# data/raw/
+# data/interim/
+# data/processed/
+# data/warehouse/*.csv
+# data/warehouse/*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Power BI (binary, large; not generatable in this environment anyway)
+*.pbix
