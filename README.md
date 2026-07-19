@@ -1,17 +1,11 @@
 ## Project Demo
 
 ### Streamlit Application
+## 🚀 Live Demo
 
-A short walkthrough of the Streamlit application is included here:
-'docs/app.mp4'
-
-
-### Power BI Dashboard
-
-The complete Power BI dashboard is included in:
-'powerbi/startup_funding_bi_platform.pbix'
-
-Open it with Power BI Desktop.
+- 🌐 **Live Streamlit App:** https://startup-funding-bi-platform.streamlit.app/
+- 📊 **Download Power BI Dashboard:** [startup_funding_bi_platform.pbix](powerbi/startup_funding_bi_platform.pbix)
+- 🎥 **Watch Application Walkthrough:** [app.mp4](docs/app.mp4)
 
 # Startup Funding & Business Intelligence Platform
 
@@ -163,9 +157,9 @@ For Power BI: open Power BI Desktop, import the tables from `data/warehouse/` (o
 
 Power BI is the primary dashboard for this project, and I also built a Streamlit application so the project can be explored in a browser.
 
-- Streamlit App: `streamlit_app/`
-- Power BI Dashboard: `powerbi/startup_funding_bi_platform.pbix`
-- App walkthrough video: `docs/app.mp4`
+- 🌐 **Live Streamlit App:** https://startup-funding-bi-platform.streamlit.app/
+- Power BI Dashboard: - 📊 **Power BI Dashboard (.pbix):** [startup_funding_bi_platform.pbix](powerbi/startup_funding_bi_platform.pbix)
+- App walkthrough video: [🎥 Streamlit App Demo Video](docs/app.mp4)
 
 Setup instructions are available in `streamlit_app/README.md`.
 
