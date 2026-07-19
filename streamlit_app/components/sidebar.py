@@ -55,6 +55,11 @@ def render_sidebar_footer():
                     {icon('linkedin', size=14)} LinkedIn Profile
                 </div>
             </a>
+            <a href="mailto:mdimamuddinf786@gmail.com" style="text-decoration:none;">
+            <div class="pill" style="width:100%; box-sizing:border-box; justify-content:flex-start;">
+                📧 mdimamuddinf786@gmail.com
+            </div>
+        </a>
         </div>
         """,
         unsafe_allow_html=True,

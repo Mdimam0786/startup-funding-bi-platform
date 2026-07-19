@@ -7,7 +7,7 @@ import streamlit as st
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 from components.icons import icon
-from config.settings import APP_NAME, APP_VERSION, GITHUB_URL, LINKEDIN_URL, RESUME_PATH
+from config.settings import APP_NAME, APP_VERSION, GITHUB_URL, LINKEDIN_URL,  EMAIL, RESUME_PATH
 
 
 def render_header():
@@ -71,7 +71,7 @@ def render_contact():
     st.markdown("<div style='height:1.2rem'></div>", unsafe_allow_html=True)
     st.markdown("### Get in touch")
 
-    c1, c2, c3 = st.columns(3)
+    c1, c2, c3, c4 = st.columns(4)
     with c1:
         st.markdown(
             f"""<a href="{GITHUB_URL}" target="_blank" style="text-decoration:none;">
@@ -93,6 +93,27 @@ def render_contact():
             unsafe_allow_html=True,
         )
     with c3:
+        st.markdown(
+        f"""
+        <a href="mailto:{EMAIL}" style="text-decoration:none;">
+            <div class="app-card" style="text-align:center;">
+                📧
+                <div style="font-weight:700; font-size:0.88rem; margin-top:0.5rem;">
+                    Email
+                </div>
+                <div class="subtle" style="font-size:0.76rem;">
+                    {EMAIL}
+                </div>
+            </div>
+        </a>
+        """,
+        unsafe_allow_html=True,
+
+        )
+    
+          
+        
+    with c4:
         if RESUME_PATH.exists():
             with open(RESUME_PATH, "rb") as f:
                 st.download_button("📄  Download Résumé", data=f, file_name="resume.pdf",

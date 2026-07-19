@@ -1,3 +1,18 @@
+## Project Demo
+
+### Streamlit Application
+
+A short walkthrough of the Streamlit application is included here:
+'docs/app.mp4'
+
+
+### Power BI Dashboard
+
+The complete Power BI dashboard is included in:
+'powerbi/startup_funding_bi_platform.pbix'
+
+Open it with Power BI Desktop.
+
 # Startup Funding & Business Intelligence Platform
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Power BI](https://img.shields.io/badge/Power%20BI-DAX-yellow) ![Streamlit](https://img.shields.io/badge/Streamlit-App-red) ![scikit--learn](https://img.shields.io/badge/scikit--learn-ML-orange)
@@ -146,7 +161,13 @@ For Power BI: open Power BI Desktop, import the tables from `data/warehouse/` (o
 
 ## Live version (Streamlit)
 
-Power BI is the main dashboard here, but I also built a Streamlit app (`streamlit_app/`) so the whole project can be explored in a browser without opening Power BI. It has 10 pages covering EDA, stats, SQL insights, live ML predictions, SHAP explainability, a searchable data explorer, the architecture, and the docs. Setup steps are in `streamlit_app/README.md`.
+Power BI is the primary dashboard for this project, and I also built a Streamlit application so the project can be explored in a browser.
+
+- Streamlit App: `streamlit_app/`
+- Power BI Dashboard: `powerbi/startup_funding_bi_platform.pbix`
+- App walkthrough video: `docs/app.mp4`
+
+Setup instructions are available in `streamlit_app/README.md`.
 
 ## Docs
 
@@ -160,13 +181,10 @@ Power BI is the main dashboard here, but I also built a Streamlit app (`streamli
 - [`docs/interview_prep.md`](docs/interview_prep.md)
 - [`notebooks/`](notebooks/) — 13 sequential notebooks (`01_Project_Overview` → `13_Conclusion`) mirroring the pipeline step by step, useful if you'd rather review the build in order than jump straight to the reports
 
-## One limitation, stated plainly
 
-Power BI Desktop is a Windows-only, proprietary-format tool, so the `.pbix` file wasn't buildable in the environment this repo was originally developed in. **Status: the `.pbix` is currently being built** from the spec below and will be committed with real dashboard screenshots shortly — everything needed to build it is already here: the data, the 43 DAX measures, and the full page-by-page spec, all in [`powerbi/`](powerbi/). If you're reading this before that commit lands, `dashboard_specification.md` is written so you can follow the design step by step without opening Power BI.
 
 ## Future work
 
-- ~~Build the actual `.pbix` and add dashboard screenshots~~ — in progress
 - Deploy the Streamlit app publicly (Streamlit Community Cloud)
 - Add fuzzy name-matching for unicorn linkage (`rapidfuzz`) to improve the ~19% match rate
 - Refit the OLS regression with heteroscedasticity-robust standard errors (`HC3`)
@@ -175,5 +193,6 @@ Power BI Desktop is a Windows-only, proprietary-format tool, so the `.pbix` file
 
 **Md Imamuddin**
 GitHub: https://github.com/Mdimam0786 · LinkedIn: https://www.linkedin.com/in/md-imamuddin-5457391a9/
+Email: mdimamuddinf786@gmail.com
 
 If you have questions about any part of this build — the schema decisions, the stats, the modeling trade-offs — I documented my reasoning throughout `docs/` and I'm happy to walk through any of it.

@@ -19,6 +19,7 @@ APP_VERSION = "1.0.0"
 
 GITHUB_URL = "https://github.com/Mdimam0786/startup-funding-bi-platform"
 LINKEDIN_URL = "https://www.linkedin.com/in/md-imamuddin-5457391a9/"
+EMAIL = "mdimamuddinf786@gmail.com"
 RESUME_PATH = ASSETS_DIR / "resume.pdf"
 
 # ---------------- Data Files ----------------
